@@ -1,0 +1,401 @@
+user_id,username,favorite_genres,favorite_authors
+1,User_1,biography|mystery|self-help,adam grant|brandon sanderson
+2,User_2,historical fiction|non-fiction,jane austen|nicholas sparks
+3,User_3,fantasy,robert kiyosaki|sheryl sandberg
+4,User_4,non-fiction,arthur conan doyle|peter thiel
+5,User_5,romance|science fiction,james clear
+6,User_6,biography|business|mystery,dale carnegie|sheryl sandberg
+7,User_7,biography|mystery|romance,arthur conan doyle|isaac asimov
+8,User_8,biography|fantasy,gillian flynn
+9,User_9,business|science fiction,james clear
+10,User_10,fantasy|non-fiction,brandon sanderson|robert kiyosaki
+11,User_11,fantasy,agatha christie|ken follett
+12,User_12,business|self-help,isaac asimov
+13,User_13,mystery|romance|thriller,adam grant|peter thiel
+14,User_14,romance,george r.r. martin
+15,User_15,historical fiction|thriller,malcolm gladwell|yuval noah harari
+16,User_16,romance,nicholas sparks|sheryl sandberg
+17,User_17,business,brandon sanderson|daniel kahneman
+18,User_18,business|mystery,jane austen
+19,User_19,non-fiction,nicholas sparks
+20,User_20,romance|science fiction,dale carnegie|stephen king
+21,User_21,non-fiction|science fiction,simon sinek
+22,User_22,historical fiction|self-help,ken follett|walter isaacson
+23,User_23,biography|non-fiction,j.r.r. tolkien|walter isaacson
+24,User_24,fantasy|non-fiction|science fiction,sheryl sandberg
+25,User_25,self-help|thriller,agatha christie|sheryl sandberg
+26,User_26,business|fantasy|romance,agatha christie|yuval noah harari
+27,User_27,biography|fantasy|self-help,isaac asimov
+28,User_28,romance,colleen hoover
+29,User_29,biography|romance|science fiction,george r.r. martin|tim ferriss
+30,User_30,business,philip k. dick
+31,User_31,self-help,dale carnegie
+32,User_32,biography|mystery|thriller,nicholas sparks
+33,User_33,biography|fantasy|romance,arthur c. clarke
+34,User_34,fantasy,sheryl sandberg
+35,User_35,self-help,dan brown
+36,User_36,science fiction,j.r.r. tolkien|robert kiyosaki
+37,User_37,biography|fantasy|non-fiction,nicholas sparks
+38,User_38,biography|mystery,robert kiyosaki
+39,User_39,biography|romance|science fiction,agatha christie|j.k. rowling
+40,User_40,mystery,robert kiyosaki
+41,User_41,business|mystery|thriller,james clear|nicholas sparks
+42,User_42,biography|science fiction,brandon sanderson|jane austen
+43,User_43,non-fiction|science fiction,malcolm gladwell|robert kiyosaki
+44,User_44,fantasy|mystery,arthur c. clarke|walter isaacson
+45,User_45,fantasy|non-fiction|romance,j.k. rowling
+46,User_46,biography|business|fantasy,agatha christie|walter isaacson
+47,User_47,biography|fantasy|romance,ken follett
+48,User_48,historical fiction|self-help|thriller,isaac asimov|simon sinek
+49,User_49,mystery,j.k. rowling|neil gaiman
+50,User_50,biography|historical fiction|mystery,arthur conan doyle|ray bradbury
+51,User_51,non-fiction|romance|science fiction,james clear|yuval noah harari
+52,User_52,mystery|romance|self-help,philip k. dick
+53,User_53,business|historical fiction,george r.r. martin|isaac asimov
+54,User_54,mystery,arthur c. clarke
+55,User_55,biography|science fiction|self-help,dan brown|ray bradbury
+56,User_56,mystery|science fiction|thriller,malcolm gladwell|ray bradbury
+57,User_57,fantasy,arthur c. clarke|george r.r. martin
+58,User_58,biography|historical fiction|science fiction,adam grant
+59,User_59,historical fiction,philip k. dick
+60,User_60,mystery|non-fiction,gillian flynn
+61,User_61,biography|business,dan brown|gillian flynn
+62,User_62,mystery|non-fiction|thriller,peter thiel
+63,User_63,science fiction,george r.r. martin
+64,User_64,fantasy,malcolm gladwell|ray bradbury
+65,User_65,historical fiction|science fiction|self-help,brandon sanderson
+66,User_66,biography|self-help|thriller,peter thiel
+67,User_67,historical fiction|self-help,daniel kahneman|sheryl sandberg
+68,User_68,biography|mystery|science fiction,j.k. rowling|yuval noah harari
+69,User_69,business,agatha christie
+70,User_70,romance|science fiction|self-help,dan brown|george r.r. martin
+71,User_71,fantasy|historical fiction|self-help,robert kiyosaki
+72,User_72,non-fiction|romance,isaac asimov|tim ferriss
+73,User_73,romance,dale carnegie
+74,User_74,romance|self-help|thriller,george r.r. martin|sheryl sandberg
+75,User_75,biography|romance|science fiction,george r.r. martin
+76,User_76,non-fiction|romance,colleen hoover
+77,User_77,mystery,dale carnegie
+78,User_78,fantasy|historical fiction|thriller,arthur conan doyle|isaac asimov
+79,User_79,business|fantasy|historical fiction,malcolm gladwell
+80,User_80,biography|business|science fiction,jane austen
+81,User_81,business|fantasy|science fiction,dan brown|simon sinek
+82,User_82,biography|historical fiction|non-fiction,arthur conan doyle|tim ferriss
+83,User_83,fantasy,j.r.r. tolkien
+84,User_84,self-help,brandon sanderson|neil gaiman
+85,User_85,self-help,george r.r. martin|yuval noah harari
+86,User_86,mystery|non-fiction,agatha christie|dale carnegie
+87,User_87,biography,daniel kahneman
+88,User_88,business|historical fiction|thriller,adam grant|malcolm gladwell
+89,User_89,thriller,isaac asimov
+90,User_90,fantasy|non-fiction|thriller,arthur conan doyle
+91,User_91,thriller,isaac asimov
+92,User_92,mystery,nicholas sparks|stephen king
+93,User_93,historical fiction,j.k. rowling|sheryl sandberg
+94,User_94,romance,sheryl sandberg
+95,User_95,biography|science fiction,isaac asimov
+96,User_96,self-help|thriller,neil gaiman|philip k. dick
+97,User_97,biography|thriller,ken follett|ray bradbury
+98,User_98,business|romance|thriller,dale carnegie|philip k. dick
+99,User_99,fantasy|historical fiction|science fiction,philip k. dick|sheryl sandberg
+100,User_100,romance|science fiction,adam grant
+101,User_101,self-help,nicholas sparks
+102,User_102,science fiction|self-help|thriller,neil gaiman|robert kiyosaki
+103,User_103,fantasy,philip k. dick
+104,User_104,biography|science fiction,james clear
+105,User_105,romance,peter thiel|yuval noah harari
+106,User_106,fantasy|science fiction,sheryl sandberg|tim ferriss
+107,User_107,biography|fantasy,walter isaacson|yuval noah harari
+108,User_108,thriller,yuval noah harari
+109,User_109,non-fiction,brandon sanderson
+110,User_110,fantasy|self-help,adam grant|j.r.r. tolkien
+111,User_111,historical fiction|romance|thriller,colleen hoover
+112,User_112,business|non-fiction|self-help,arthur conan doyle
+113,User_113,self-help,adam grant|neil gaiman
+114,User_114,biography|romance|self-help,neil gaiman|peter thiel
+115,User_115,mystery|romance|self-help,neil gaiman|walter isaacson
+116,User_116,mystery,jane austen
+117,User_117,romance|science fiction|thriller,colleen hoover|peter thiel
+118,User_118,fantasy|romance,brandon sanderson|jane austen
+119,User_119,business|fantasy,nicholas sparks
+120,User_120,historical fiction|mystery|romance,j.r.r. tolkien|walter isaacson
+121,User_121,biography|fantasy,ken follett
+122,User_122,self-help|thriller,george r.r. martin|peter thiel
+123,User_123,romance,isaac asimov|walter isaacson
+124,User_124,romance,jane austen|tim ferriss
+125,User_125,mystery|thriller,agatha christie
+126,User_126,fantasy|science fiction|thriller,stephen king
+127,User_127,biography|historical fiction|self-help,dale carnegie
+128,User_128,fantasy|romance|thriller,brandon sanderson|j.r.r. tolkien
+129,User_129,fantasy|self-help,ken follett
+130,User_130,science fiction,arthur c. clarke|simon sinek
+131,User_131,thriller,colleen hoover
+132,User_132,historical fiction|non-fiction|science fiction,daniel kahneman|nicholas sparks
+133,User_133,fantasy,arthur conan doyle|sheryl sandberg
+134,User_134,historical fiction|non-fiction,james clear|nicholas sparks
+135,User_135,fantasy|historical fiction|mystery,nicholas sparks
+136,User_136,business,arthur c. clarke
+137,User_137,historical fiction|self-help|thriller,yuval noah harari
+138,User_138,fantasy|mystery|non-fiction,isaac asimov
+139,User_139,business,dale carnegie|neil gaiman
+140,User_140,self-help,sheryl sandberg
+141,User_141,business|self-help,colleen hoover|jane austen
+142,User_142,business,adam grant|dan brown
+143,User_143,historical fiction|thriller,walter isaacson
+144,User_144,science fiction|thriller,daniel kahneman|neil gaiman
+145,User_145,historical fiction|science fiction,dale carnegie|simon sinek
+146,User_146,historical fiction,dan brown|sheryl sandberg
+147,User_147,non-fiction|thriller,adam grant
+148,User_148,mystery|non-fiction|thriller,arthur conan doyle|nicholas sparks
+149,User_149,historical fiction|science fiction,malcolm gladwell
+150,User_150,mystery|self-help,daniel kahneman|j.k. rowling
+151,User_151,mystery,j.r.r. tolkien|stephen king
+152,User_152,non-fiction,dale carnegie|ray bradbury
+153,User_153,biography|mystery|science fiction,robert kiyosaki
+154,User_154,fantasy|mystery,agatha christie
+155,User_155,business|non-fiction|self-help,agatha christie|yuval noah harari
+156,User_156,romance|self-help|thriller,colleen hoover
+157,User_157,business|science fiction,isaac asimov
+158,User_158,biography|historical fiction|non-fiction,neil gaiman|robert kiyosaki
+159,User_159,biography|romance,neil gaiman
+160,User_160,business,agatha christie
+161,User_161,business,brandon sanderson|j.k. rowling
+162,User_162,historical fiction|non-fiction,simon sinek|stephen king
+163,User_163,business|romance|science fiction,nicholas sparks
+164,User_164,fantasy|historical fiction,colleen hoover|nicholas sparks
+165,User_165,historical fiction|mystery,george r.r. martin
+166,User_166,non-fiction|romance|thriller,arthur c. clarke|ken follett
+167,User_167,mystery|science fiction,james clear|jane austen
+168,User_168,mystery|thriller,adam grant|jane austen
+169,User_169,romance|science fiction|thriller,arthur c. clarke
+170,User_170,self-help,j.r.r. tolkien
+171,User_171,fantasy|self-help|thriller,james clear
+172,User_172,historical fiction,nicholas sparks
+173,User_173,biography|mystery|non-fiction,adam grant|nicholas sparks
+174,User_174,science fiction,daniel kahneman|malcolm gladwell
+175,User_175,romance|science fiction,jane austen
+176,User_176,business|historical fiction|science fiction,neil gaiman
+177,User_177,historical fiction,simon sinek
+178,User_178,biography|romance,philip k. dick
+179,User_179,fantasy|historical fiction|non-fiction,adam grant
+180,User_180,historical fiction|self-help|thriller,j.k. rowling
+181,User_181,fantasy|mystery|thriller,dan brown|tim ferriss
+182,User_182,biography|romance|thriller,james clear
+183,User_183,biography,agatha christie|gillian flynn
+184,User_184,science fiction|self-help|thriller,malcolm gladwell
+185,User_185,biography,philip k. dick
+186,User_186,fantasy,jane austen|philip k. dick
+187,User_187,historical fiction|non-fiction|thriller,brandon sanderson|simon sinek
+188,User_188,romance,daniel kahneman
+189,User_189,biography|business,ken follett|sheryl sandberg
+190,User_190,biography|romance|science fiction,arthur c. clarke
+191,User_191,biography|non-fiction,brandon sanderson|dan brown
+192,User_192,mystery|science fiction,brandon sanderson|colleen hoover
+193,User_193,historical fiction,agatha christie|philip k. dick
+194,User_194,biography|non-fiction,j.r.r. tolkien
+195,User_195,romance|self-help,daniel kahneman
+196,User_196,fantasy|self-help,brandon sanderson|jane austen
+197,User_197,business|non-fiction,malcolm gladwell|yuval noah harari
+198,User_198,fantasy|romance,dan brown|neil gaiman
+199,User_199,fantasy|romance,dan brown|malcolm gladwell
+200,User_200,mystery|self-help|thriller,sheryl sandberg
+201,User_201,fantasy|historical fiction|mystery,arthur conan doyle
+202,User_202,historical fiction|science fiction,dale carnegie|ray bradbury
+203,User_203,fantasy,ken follett
+204,User_204,mystery|non-fiction|thriller,nicholas sparks
+205,User_205,historical fiction,gillian flynn|malcolm gladwell
+206,User_206,fantasy|self-help|thriller,ray bradbury
+207,User_207,non-fiction|science fiction|self-help,george r.r. martin|stephen king
+208,User_208,fantasy|romance,j.k. rowling
+209,User_209,fantasy|romance|thriller,robert kiyosaki
+210,User_210,mystery|non-fiction,isaac asimov|tim ferriss
+211,User_211,science fiction,j.r.r. tolkien|neil gaiman
+212,User_212,business|mystery|science fiction,gillian flynn|robert kiyosaki
+213,User_213,historical fiction|non-fiction|romance,nicholas sparks
+214,User_214,biography|thriller,jane austen
+215,User_215,biography|business|non-fiction,isaac asimov|malcolm gladwell
+216,User_216,non-fiction,james clear|nicholas sparks
+217,User_217,business|self-help|thriller,j.r.r. tolkien|james clear
+218,User_218,historical fiction|non-fiction|science fiction,dan brown|peter thiel
+219,User_219,non-fiction,walter isaacson
+220,User_220,biography|science fiction,agatha christie|colleen hoover
+221,User_221,business|mystery|science fiction,tim ferriss
+222,User_222,business|thriller,agatha christie
+223,User_223,biography|business,george r.r. martin
+224,User_224,non-fiction|romance,colleen hoover|neil gaiman
+225,User_225,fantasy,peter thiel|philip k. dick
+226,User_226,fantasy|non-fiction|romance,ray bradbury
+227,User_227,biography|business|self-help,dan brown|j.k. rowling
+228,User_228,biography|business,adam grant
+229,User_229,non-fiction,yuval noah harari
+230,User_230,fantasy,simon sinek
+231,User_231,mystery|science fiction|thriller,arthur c. clarke|tim ferriss
+232,User_232,non-fiction,j.k. rowling|stephen king
+233,User_233,biography|mystery|non-fiction,j.r.r. tolkien|nicholas sparks
+234,User_234,non-fiction,adam grant|neil gaiman
+235,User_235,historical fiction|romance|self-help,j.k. rowling|peter thiel
+236,User_236,mystery,brandon sanderson|simon sinek
+237,User_237,business,sheryl sandberg|simon sinek
+238,User_238,biography|business,adam grant
+239,User_239,business|mystery,colleen hoover|j.r.r. tolkien
+240,User_240,business|mystery,isaac asimov|j.r.r. tolkien
+241,User_241,business|thriller,dale carnegie
+242,User_242,historical fiction|science fiction,sheryl sandberg
+243,User_243,business|mystery,ken follett
+244,User_244,historical fiction|self-help|thriller,adam grant
+245,User_245,romance,adam grant|robert kiyosaki
+246,User_246,business|romance,ray bradbury|sheryl sandberg
+247,User_247,romance|self-help,isaac asimov
+248,User_248,mystery|science fiction|thriller,jane austen|stephen king
+249,User_249,mystery|non-fiction|science fiction,peter thiel|ray bradbury
+250,User_250,biography|business|romance,stephen king
+251,User_251,thriller,isaac asimov
+252,User_252,business|mystery|self-help,j.r.r. tolkien|tim ferriss
+253,User_253,fantasy|science fiction,simon sinek
+254,User_254,biography|non-fiction,nicholas sparks|simon sinek
+255,User_255,thriller,ray bradbury|yuval noah harari
+256,User_256,biography|historical fiction,robert kiyosaki|simon sinek
+257,User_257,science fiction|self-help,stephen king
+258,User_258,mystery|non-fiction|romance,james clear|philip k. dick
+259,User_259,science fiction|self-help,j.k. rowling|ken follett
+260,User_260,fantasy,tim ferriss|walter isaacson
+261,User_261,historical fiction|non-fiction|thriller,yuval noah harari
+262,User_262,fantasy|mystery,walter isaacson
+263,User_263,self-help|thriller,peter thiel
+264,User_264,historical fiction|science fiction,adam grant|jane austen
+265,User_265,business|fantasy|romance,j.k. rowling|james clear
+266,User_266,fantasy|romance,george r.r. martin|j.k. rowling
+267,User_267,biography|fantasy|self-help,james clear|stephen king
+268,User_268,fantasy|science fiction|self-help,j.r.r. tolkien|sheryl sandberg
+269,User_269,business|mystery|self-help,malcolm gladwell
+270,User_270,fantasy,j.k. rowling|philip k. dick
+271,User_271,historical fiction,tim ferriss
+272,User_272,fantasy|romance|thriller,brandon sanderson|robert kiyosaki
+273,User_273,historical fiction|mystery,brandon sanderson
+274,User_274,fantasy|non-fiction,gillian flynn
+275,User_275,mystery|romance|science fiction,walter isaacson
+276,User_276,romance,philip k. dick
+277,User_277,fantasy|mystery|non-fiction,dale carnegie|jane austen
+278,User_278,historical fiction|science fiction,peter thiel|robert kiyosaki
+279,User_279,biography|business|science fiction,adam grant
+280,User_280,mystery,stephen king
+281,User_281,business|fantasy,arthur conan doyle
+282,User_282,thriller,isaac asimov|walter isaacson
+283,User_283,business|romance|thriller,nicholas sparks
+284,User_284,non-fiction,jane austen|stephen king
+285,User_285,business,dan brown|malcolm gladwell
+286,User_286,romance,stephen king
+287,User_287,biography|romance,isaac asimov|james clear
+288,User_288,business|historical fiction,j.k. rowling|ray bradbury
+289,User_289,biography|fantasy|mystery,agatha christie|dale carnegie
+290,User_290,historical fiction|non-fiction|thriller,colleen hoover|gillian flynn
+291,User_291,business|romance|self-help,simon sinek
+292,User_292,romance,walter isaacson
+293,User_293,fantasy|science fiction,james clear
+294,User_294,biography,ken follett|peter thiel
+295,User_295,business|fantasy,arthur c. clarke|philip k. dick
+296,User_296,fantasy|historical fiction|mystery,colleen hoover|james clear
+297,User_297,mystery|science fiction,nicholas sparks|stephen king
+298,User_298,mystery|self-help,walter isaacson
+299,User_299,biography|non-fiction|self-help,dan brown|robert kiyosaki
+300,User_300,business|historical fiction,brandon sanderson|yuval noah harari
+301,User_301,fantasy|thriller,malcolm gladwell
+302,User_302,non-fiction|romance,stephen king
+303,User_303,mystery|romance|thriller,agatha christie
+304,User_304,fantasy|historical fiction|science fiction,arthur conan doyle|ray bradbury
+305,User_305,historical fiction,stephen king|yuval noah harari
+306,User_306,fantasy|mystery,daniel kahneman
+307,User_307,romance,isaac asimov|stephen king
+308,User_308,thriller,isaac asimov|neil gaiman
+309,User_309,mystery,j.r.r. tolkien|james clear
+310,User_310,historical fiction,james clear
+311,User_311,biography|non-fiction|thriller,robert kiyosaki|walter isaacson
+312,User_312,non-fiction|science fiction|thriller,colleen hoover
+313,User_313,non-fiction,daniel kahneman|nicholas sparks
+314,User_314,business|non-fiction|science fiction,brandon sanderson|james clear
+315,User_315,business|fantasy|thriller,ray bradbury
+316,User_316,historical fiction,colleen hoover|simon sinek
+317,User_317,business,adam grant|isaac asimov
+318,User_318,biography|mystery|thriller,george r.r. martin
+319,User_319,romance,colleen hoover|isaac asimov
+320,User_320,mystery|non-fiction,nicholas sparks
+321,User_321,biography|non-fiction,jane austen
+322,User_322,business|mystery,brandon sanderson|simon sinek
+323,User_323,biography,ken follett
+324,User_324,fantasy|non-fiction|science fiction,colleen hoover
+325,User_325,business,brandon sanderson|walter isaacson
+326,User_326,biography,malcolm gladwell|ray bradbury
+327,User_327,romance,jane austen|neil gaiman
+328,User_328,biography|historical fiction|science fiction,colleen hoover|philip k. dick
+329,User_329,historical fiction|mystery|science fiction,dale carnegie|ray bradbury
+330,User_330,mystery|science fiction,colleen hoover
+331,User_331,business|romance|thriller,george r.r. martin|malcolm gladwell
+332,User_332,fantasy|romance,tim ferriss
+333,User_333,biography|historical fiction,daniel kahneman
+334,User_334,historical fiction|non-fiction|romance,brandon sanderson|nicholas sparks
+335,User_335,self-help,nicholas sparks|stephen king
+336,User_336,fantasy|non-fiction,colleen hoover|nicholas sparks
+337,User_337,fantasy|historical fiction|science fiction,dale carnegie
+338,User_338,mystery|non-fiction|thriller,dale carnegie
+339,User_339,mystery,j.k. rowling
+340,User_340,non-fiction|romance,philip k. dick|walter isaacson
+341,User_341,biography|self-help|thriller,isaac asimov
+342,User_342,fantasy|historical fiction,sheryl sandberg
+343,User_343,business|non-fiction|science fiction,adam grant|j.k. rowling
+344,User_344,non-fiction|romance|self-help,stephen king
+345,User_345,non-fiction|romance|science fiction,arthur conan doyle
+346,User_346,business,nicholas sparks|sheryl sandberg
+347,User_347,fantasy|self-help|thriller,james clear|peter thiel
+348,User_348,non-fiction,neil gaiman|philip k. dick
+349,User_349,romance,sheryl sandberg
+350,User_350,mystery|romance,j.r.r. tolkien|malcolm gladwell
+351,User_351,fantasy,agatha christie|brandon sanderson
+352,User_352,biography|romance,arthur c. clarke|dan brown
+353,User_353,fantasy,dan brown|isaac asimov
+354,User_354,biography|non-fiction|romance,dale carnegie|yuval noah harari
+355,User_355,fantasy|self-help,colleen hoover|ken follett
+356,User_356,biography|mystery,dale carnegie|gillian flynn
+357,User_357,mystery|non-fiction|romance,brandon sanderson|george r.r. martin
+358,User_358,biography|historical fiction|science fiction,gillian flynn
+359,User_359,historical fiction|romance|self-help,colleen hoover|ray bradbury
+360,User_360,biography|fantasy,sheryl sandberg
+361,User_361,historical fiction|mystery|non-fiction,j.r.r. tolkien|ray bradbury
+362,User_362,biography|self-help,yuval noah harari
+363,User_363,mystery|non-fiction|science fiction,yuval noah harari
+364,User_364,thriller,peter thiel
+365,User_365,business|mystery,dale carnegie|malcolm gladwell
+366,User_366,non-fiction|thriller,colleen hoover|ray bradbury
+367,User_367,historical fiction|science fiction,dan brown|tim ferriss
+368,User_368,biography|business,adam grant|robert kiyosaki
+369,User_369,business|mystery,j.r.r. tolkien|nicholas sparks
+370,User_370,biography|historical fiction|mystery,yuval noah harari
+371,User_371,business|non-fiction|self-help,j.k. rowling
+372,User_372,business,agatha christie
+373,User_373,business|science fiction|self-help,colleen hoover|j.r.r. tolkien
+374,User_374,biography|mystery|thriller,ken follett
+375,User_375,business,dale carnegie|simon sinek
+376,User_376,mystery,ken follett|neil gaiman
+377,User_377,mystery,adam grant|philip k. dick
+378,User_378,historical fiction,nicholas sparks
+379,User_379,fantasy,peter thiel
+380,User_380,biography|thriller,arthur conan doyle|dan brown
+381,User_381,biography,arthur conan doyle
+382,User_382,historical fiction|mystery|thriller,isaac asimov|neil gaiman
+383,User_383,fantasy,simon sinek|tim ferriss
+384,User_384,non-fiction|science fiction,daniel kahneman|jane austen
+385,User_385,fantasy|science fiction|self-help,james clear|robert kiyosaki
+386,User_386,fantasy|non-fiction|romance,ken follett
+387,User_387,biography|self-help,arthur c. clarke|arthur conan doyle
+388,User_388,mystery,ray bradbury|robert kiyosaki
+389,User_389,historical fiction|mystery|science fiction,brandon sanderson|colleen hoover
+390,User_390,thriller,gillian flynn|jane austen
+391,User_391,historical fiction,walter isaacson
+392,User_392,biography|romance|thriller,nicholas sparks|philip k. dick
+393,User_393,biography|historical fiction,jane austen|peter thiel
+394,User_394,fantasy|mystery|self-help,dan brown|j.r.r. tolkien
+395,User_395,business|historical fiction,nicholas sparks|philip k. dick
+396,User_396,business,james clear|philip k. dick
+397,User_397,mystery|romance,agatha christie
+398,User_398,business|non-fiction|romance,j.r.r. tolkien
+399,User_399,business,agatha christie|peter thiel
+400,User_400,romance,neil gaiman|simon sinek

@@ -1,0 +1,2801 @@
+user_id,book_id,rating,interaction_type,review_text,timestamp
+323,951,5.0,rate,Beautifully written and highly engaging.,2026-01-08
+247,1016,3.0,rate,It was an okay read. Met expectations.,2026-01-08
+150,445,3.0,rate,It was an okay read. Met expectations.,2026-01-08
+298,225,3.0,rate,It was an okay read. Met expectations.,2026-01-08
+230,399,,view,,2026-01-09
+186,669,3.0,rate,It was an okay read. Met expectations.,2026-01-09
+173,894,4.0,rate,Beautifully written and highly engaging.,2026-01-09
+77,375,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-09
+110,459,,view,,2026-01-10
+193,251,3.0,rate,It was an okay read. Met expectations.,2026-01-10
+196,1186,3.0,rate,It was an okay read. Met expectations.,2026-01-10
+45,233,,view,,2026-01-10
+95,806,3.0,rate,It was an okay read. Met expectations.,2026-01-11
+390,177,3.0,rate,It was an okay read. Met expectations.,2026-01-11
+260,312,3.0,rate,It was an okay read. Met expectations.,2026-01-11
+211,968,,view,,2026-01-11
+116,840,5.0,rate,An absolute masterpiece! Loved every page.,2026-01-11
+119,1028,3.0,rate,It was an okay read. Met expectations.,2026-01-11
+352,308,,view,,2026-01-11
+59,16,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-11
+387,229,2.0,rate,Hard to get through. Not recommended.,2026-01-12
+60,55,,view,,2026-01-12
+286,777,,view,,2026-01-12
+355,277,2.0,rate,Decent idea but poorly written.,2026-01-12
+204,400,3.0,rate,It was an okay read. Met expectations.,2026-01-12
+310,58,2.0,rate,Hard to get through. Not recommended.,2026-01-12
+258,821,3.0,rate,It was an okay read. Met expectations.,2026-01-12
+62,837,,view,,2026-01-12
+14,871,4.0,rate,"A wonderful read, really connected with the story.",2026-01-12
+343,339,4.0,rate,"A wonderful read, really connected with the story.",2026-01-12
+32,754,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-13
+333,599,,view,,2026-01-13
+194,249,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-13
+81,735,,shelve,,2026-01-13
+266,290,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-13
+96,1177,,shelve,,2026-01-13
+281,1,3.0,rate,It was an okay read. Met expectations.,2026-01-13
+398,977,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-13
+144,253,2.0,rate,Very basic characters and predictable plot.,2026-01-13
+250,617,,view,,2026-01-13
+262,683,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+254,448,,shelve,,2026-01-14
+64,278,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+329,612,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+370,1158,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+218,558,2.0,rate,Very basic characters and predictable plot.,2026-01-14
+123,1150,,shelve,,2026-01-14
+300,652,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+288,156,,shelve,,2026-01-14
+65,1023,2.0,rate,Very basic characters and predictable plot.,2026-01-14
+17,572,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-14
+347,859,,view,,2026-01-14
+293,368,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-14
+230,1119,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+379,569,5.0,rate,Beautifully written and highly engaging.,2026-01-14
+46,604,,shelve,,2026-01-14
+164,371,4.0,rate,"A wonderful read, really connected with the story.",2026-01-14
+203,64,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+26,402,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-14
+377,156,3.0,rate,It was an okay read. Met expectations.,2026-01-14
+101,132,,view,,2026-01-14
+129,1051,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+8,22,,view,,2026-01-15
+29,462,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-15
+220,735,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+197,1148,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+34,782,4.0,rate,"A wonderful read, really connected with the story.",2026-01-15
+344,170,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+382,578,2.0,rate,Decent idea but poorly written.,2026-01-15
+265,410,,view,,2026-01-15
+18,508,4.0,rate,Beautifully written and highly engaging.,2026-01-15
+392,6,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+80,832,2.0,rate,Hard to get through. Not recommended.,2026-01-15
+235,100,1.0,rate,Decent idea but poorly written.,2026-01-15
+91,613,,shelve,,2026-01-15
+31,850,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-15
+24,1060,,view,,2026-01-15
+376,506,,view,,2026-01-15
+52,81,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+233,887,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+16,312,,shelve,,2026-01-15
+195,921,3.0,rate,It was an okay read. Met expectations.,2026-01-15
+11,868,1.0,rate,Very basic characters and predictable plot.,2026-01-15
+397,897,,view,,2026-01-15
+261,1067,,view,,2026-01-15
+75,412,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-16
+244,548,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+115,438,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+321,807,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+172,286,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+106,718,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+76,1036,,view,,2026-01-16
+306,125,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+201,823,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-16
+385,739,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-16
+373,415,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+182,700,2.0,rate,Hard to get through. Not recommended.,2026-01-16
+152,768,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+224,442,,view,,2026-01-16
+6,1091,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+294,226,3.0,rate,It was an okay read. Met expectations.,2026-01-16
+104,532,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-16
+326,575,,view,,2026-01-17
+49,710,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+269,44,4.0,rate,"A wonderful read, really connected with the story.",2026-01-17
+240,229,4.0,rate,Beautifully written and highly engaging.,2026-01-17
+42,466,,shelve,,2026-01-17
+41,991,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-17
+330,133,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-17
+206,404,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+161,350,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+2,699,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+259,112,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-17
+99,550,2.0,rate,Very basic characters and predictable plot.,2026-01-17
+97,390,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+202,985,,shelve,,2026-01-17
+7,158,4.0,rate,Could not put it down! A fantastic book.,2026-01-17
+337,159,,view,,2026-01-17
+396,863,,view,,2026-01-17
+188,1156,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-17
+118,950,4.0,rate,Beautifully written and highly engaging.,2026-01-17
+214,506,3.0,rate,It was an okay read. Met expectations.,2026-01-17
+361,1186,,shelve,,2026-01-17
+212,934,,view,,2026-01-17
+298,162,,shelve,,2026-01-17
+245,7,5.0,rate,Could not put it down! A fantastic book.,2026-01-18
+86,843,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-18
+177,832,3.0,rate,It was an okay read. Met expectations.,2026-01-18
+353,1037,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-18
+275,797,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-18
+88,12,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-18
+231,416,2.0,rate,Decent idea but poorly written.,2026-01-18
+44,263,,shelve,,2026-01-18
+232,381,4.0,rate,"A wonderful read, really connected with the story.",2026-01-18
+365,526,3.0,rate,It was an okay read. Met expectations.,2026-01-18
+348,793,,view,,2026-01-18
+38,346,,view,,2026-01-18
+4,1007,2.0,rate,Very basic characters and predictable plot.,2026-01-18
+36,273,,shelve,,2026-01-18
+109,475,3.0,rate,It was an okay read. Met expectations.,2026-01-18
+363,64,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-18
+320,9,,shelve,,2026-01-18
+248,348,4.0,rate,Beautifully written and highly engaging.,2026-01-18
+400,713,4.0,rate,Beautifully written and highly engaging.,2026-01-18
+70,758,,view,,2026-01-18
+105,23,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-18
+122,629,,view,,2026-01-18
+179,1002,,view,,2026-01-18
+71,500,,shelve,,2026-01-18
+317,286,,shelve,,2026-01-18
+334,772,3.0,rate,It was an okay read. Met expectations.,2026-01-18
+84,98,,view,,2026-01-18
+210,136,5.0,rate,Beautifully written and highly engaging.,2026-01-18
+187,412,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-18
+357,654,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-18
+246,997,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-18
+285,232,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-18
+163,18,,view,,2026-01-19
+345,1009,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-19
+270,983,,view,,2026-01-19
+356,988,,shelve,,2026-01-19
+128,377,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+37,724,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+120,93,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+299,447,4.0,rate,Beautifully written and highly engaging.,2026-01-19
+364,885,2.0,rate,Decent idea but poorly written.,2026-01-19
+349,923,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+74,1058,4.0,rate,Could not put it down! A fantastic book.,2026-01-19
+391,912,2.0,rate,Hard to get through. Not recommended.,2026-01-19
+389,328,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-19
+324,753,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+229,500,,view,,2026-01-19
+207,371,,view,,2026-01-19
+223,315,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+277,1030,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+165,23,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+134,309,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+332,39,2.0,rate,Hard to get through. Not recommended.,2026-01-19
+253,1165,2.0,rate,Hard to get through. Not recommended.,2026-01-19
+180,839,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+280,1061,4.0,rate,"A wonderful read, really connected with the story.",2026-01-19
+126,585,4.0,rate,Beautifully written and highly engaging.,2026-01-19
+169,60,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-19
+208,522,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+190,480,3.0,rate,It was an okay read. Met expectations.,2026-01-19
+309,944,5.0,rate,An absolute masterpiece! Loved every page.,2026-01-19
+62,620,,view,,2026-01-20
+121,717,4.0,rate,Beautifully written and highly engaging.,2026-01-20
+186,628,,shelve,,2026-01-20
+145,1190,2.0,rate,Hard to get through. Not recommended.,2026-01-20
+33,927,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+196,764,,shelve,,2026-01-20
+238,621,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-20
+178,655,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-20
+366,1198,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+139,661,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+227,3,,view,,2026-01-20
+368,302,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+192,144,,shelve,,2026-01-20
+291,295,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+381,390,5.0,rate,Beautifully written and highly engaging.,2026-01-20
+213,119,4.0,rate,Could not put it down! A fantastic book.,2026-01-20
+92,1129,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+236,915,4.0,rate,Could not put it down! A fantastic book.,2026-01-20
+271,620,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-20
+112,752,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+200,630,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+297,519,,view,,2026-01-20
+140,692,,view,,2026-01-20
+234,1019,,shelve,,2026-01-20
+338,281,3.0,rate,It was an okay read. Met expectations.,2026-01-20
+191,640,,shelve,,2026-01-20
+133,15,,shelve,,2026-01-20
+384,47,,view,,2026-01-20
+167,739,,shelve,,2026-01-20
+388,186,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-20
+30,1118,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-20
+282,105,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+5,832,,shelve,,2026-01-21
+21,684,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+135,1020,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+22,1122,,view,,2026-01-21
+174,151,5.0,rate,Beautifully written and highly engaging.,2026-01-21
+154,1073,4.0,rate,"A wonderful read, really connected with the story.",2026-01-21
+359,775,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+56,856,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+228,1110,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-21
+175,1167,,shelve,,2026-01-21
+151,476,,shelve,,2026-01-21
+346,232,,shelve,,2026-01-21
+67,825,,shelve,,2026-01-21
+12,47,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+20,547,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-21
+311,327,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+25,335,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-21
+168,313,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+351,403,,view,,2026-01-21
+47,846,,view,,2026-01-21
+278,483,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+125,483,4.0,rate,"A wonderful read, really connected with the story.",2026-01-21
+289,980,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-21
+185,685,4.0,rate,"A wonderful read, really connected with the story.",2026-01-21
+283,742,3.0,rate,It was an okay read. Met expectations.,2026-01-21
+48,182,2.0,rate,Very basic characters and predictable plot.,2026-01-22
+308,271,,view,,2026-01-22
+69,862,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+367,714,4.0,rate,"A wonderful read, really connected with the story.",2026-01-22
+137,692,,shelve,,2026-01-22
+249,349,4.0,rate,Could not put it down! A fantastic book.,2026-01-22
+336,528,4.0,rate,"A wonderful read, really connected with the story.",2026-01-22
+157,656,,view,,2026-01-22
+307,361,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+314,321,,view,,2026-01-22
+306,807,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+226,817,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+156,353,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+264,538,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+313,1044,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+358,53,4.0,rate,"A wonderful read, really connected with the story.",2026-01-22
+310,444,,view,,2026-01-22
+302,81,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+58,405,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+354,939,3.0,rate,It was an okay read. Met expectations.,2026-01-22
+131,383,,view,,2026-01-23
+138,379,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-23
+382,1115,,view,,2026-01-23
+149,1179,3.0,rate,It was an okay read. Met expectations.,2026-01-23
+394,1043,2.0,rate,Very basic characters and predictable plot.,2026-01-23
+281,874,2.0,rate,Decent idea but poorly written.,2026-01-23
+77,489,4.0,rate,Beautifully written and highly engaging.,2026-01-23
+285,396,,view,,2026-01-23
+393,503,2.0,rate,Hard to get through. Not recommended.,2026-01-23
+98,31,3.0,rate,It was an okay read. Met expectations.,2026-01-23
+360,712,,view,,2026-01-23
+127,362,,shelve,,2026-01-23
+13,406,5.0,rate,Beautifully written and highly engaging.,2026-01-23
+322,369,3.0,rate,It was an okay read. Met expectations.,2026-01-23
+292,832,,view,,2026-01-23
+89,762,2.0,rate,Decent idea but poorly written.,2026-01-23
+284,1103,5.0,rate,"A wonderful read, really connected with the story.",2026-01-23
+205,230,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-23
+312,556,,view,,2026-01-23
+305,341,,view,,2026-01-23
+143,806,,shelve,,2026-01-23
+130,351,,view,,2026-01-23
+148,360,4.0,rate,Beautifully written and highly engaging.,2026-01-23
+176,776,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-23
+219,1029,,shelve,,2026-01-23
+217,73,3.0,rate,It was an okay read. Met expectations.,2026-01-23
+290,158,,shelve,,2026-01-23
+68,982,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-23
+268,415,5.0,rate,"A wonderful read, really connected with the story.",2026-01-23
+340,1181,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+267,982,2.0,rate,Hard to get through. Not recommended.,2026-01-24
+183,175,,view,,2026-01-24
+106,2,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-24
+215,1145,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-24
+103,544,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-24
+107,1080,,view,,2026-01-24
+399,1011,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+171,1021,,shelve,,2026-01-24
+316,1182,,view,,2026-01-24
+102,265,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+132,842,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+276,34,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-24
+15,593,4.0,rate,Could not put it down! A fantastic book.,2026-01-24
+352,80,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+141,674,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+23,43,,view,,2026-01-24
+173,603,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+288,778,2.0,rate,Decent idea but poorly written.,2026-01-24
+331,693,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-24
+144,705,,shelve,,2026-01-24
+189,146,3.0,rate,It was an okay read. Met expectations.,2026-01-24
+54,661,4.0,rate,Could not put it down! A fantastic book.,2026-01-25
+101,1080,2.0,rate,Hard to get through. Not recommended.,2026-01-25
+318,306,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-25
+229,127,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-25
+123,1096,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+66,917,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+79,170,2.0,rate,Very basic characters and predictable plot.,2026-01-25
+53,171,2.0,rate,Hard to get through. Not recommended.,2026-01-25
+83,1008,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-25
+10,1101,,view,,2026-01-25
+287,388,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+216,368,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+258,828,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+252,422,,view,,2026-01-25
+178,1133,,view,,2026-01-25
+348,980,,shelve,,2026-01-25
+90,790,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-25
+8,1174,,view,,2026-01-25
+296,231,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+325,546,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+246,294,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-25
+341,1069,4.0,rate,Beautifully written and highly engaging.,2026-01-25
+111,910,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+72,961,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+235,1012,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-25
+1,138,4.0,rate,"A wonderful read, really connected with the story.",2026-01-25
+255,210,3.0,rate,It was an okay read. Met expectations.,2026-01-25
+93,959,1.0,rate,Very basic characters and predictable plot.,2026-01-25
+295,861,,shelve,,2026-01-25
+237,410,,view,,2026-01-25
+184,395,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+155,937,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-26
+94,666,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-26
+342,204,,view,,2026-01-26
+146,956,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+7,877,2.0,rate,Hard to get through. Not recommended.,2026-01-26
+327,733,,shelve,,2026-01-26
+35,1028,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+353,37,4.0,rate,Could not put it down! A fantastic book.,2026-01-26
+3,802,,shelve,,2026-01-26
+80,744,4.0,rate,Beautifully written and highly engaging.,2026-01-26
+303,1050,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+81,422,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+375,228,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-26
+82,642,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-26
+373,437,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-26
+329,24,,view,,2026-01-26
+243,335,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+221,323,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+16,493,4.0,rate,"A wonderful read, really connected with the story.",2026-01-26
+26,10,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+362,779,4.0,rate,Beautifully written and highly engaging.,2026-01-26
+126,756,3.0,rate,It was an okay read. Met expectations.,2026-01-26
+242,447,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-26
+398,128,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-26
+19,401,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-26
+256,177,,shelve,,2026-01-27
+279,44,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+225,1143,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+369,93,4.0,rate,Beautifully written and highly engaging.,2026-01-27
+73,833,,view,,2026-01-27
+96,101,4.0,rate,Could not put it down! A fantastic book.,2026-01-27
+304,772,,view,,2026-01-27
+251,992,2.0,rate,Decent idea but poorly written.,2026-01-27
+117,831,,view,,2026-01-27
+319,417,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+100,193,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-27
+379,213,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+328,118,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+201,694,4.0,rate,Could not put it down! A fantastic book.,2026-01-27
+147,50,,shelve,,2026-01-27
+351,1060,,view,,2026-01-27
+294,867,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-27
+241,1044,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+134,963,,shelve,,2026-01-27
+209,1077,4.0,rate,"A wonderful read, really connected with the story.",2026-01-27
+371,91,4.0,rate,Beautifully written and highly engaging.,2026-01-27
+119,286,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+63,1085,3.0,rate,It was an okay read. Met expectations.,2026-01-27
+152,1179,,shelve,,2026-01-27
+142,949,,shelve,,2026-01-28
+181,982,4.0,rate,Beautifully written and highly engaging.,2026-01-28
+158,702,2.0,rate,Decent idea but poorly written.,2026-01-28
+84,914,3.0,rate,It was an okay read. Met expectations.,2026-01-28
+166,576,,view,,2026-01-28
+273,273,3.0,rate,It was an okay read. Met expectations.,2026-01-28
+387,1180,4.0,rate,"A wonderful read, really connected with the story.",2026-01-28
+332,1198,,view,,2026-01-28
+24,748,3.0,rate,It was an okay read. Met expectations.,2026-01-28
+372,418,2.0,rate,Very basic characters and predictable plot.,2026-01-28
+50,1094,,view,,2026-01-28
+177,654,3.0,rate,It was an okay read. Met expectations.,2026-01-28
+71,66,3.0,rate,It was an okay read. Met expectations.,2026-01-29
+383,78,,view,,2026-01-29
+65,752,3.0,rate,It was an okay read. Met expectations.,2026-01-29
+307,1052,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-29
+55,379,5.0,rate,"A wonderful read, really connected with the story.",2026-01-29
+159,592,3.0,rate,It was an okay read. Met expectations.,2026-01-29
+220,382,,shelve,,2026-01-29
+28,362,2.0,rate,Hard to get through. Not recommended.,2026-01-29
+392,470,3.0,rate,It was an okay read. Met expectations.,2026-01-29
+211,268,1.0,rate,Hard to get through. Not recommended.,2026-01-29
+365,511,3.0,rate,It was an okay read. Met expectations.,2026-01-29
+130,113,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-01-29
+179,303,,view,,2026-01-29
+378,855,4.0,rate,"A wonderful read, really connected with the story.",2026-01-29
+267,1198,,shelve,,2026-01-29
+128,648,,view,,2026-01-29
+301,755,,view,,2026-01-29
+182,870,,shelve,,2026-01-30
+391,142,2.0,rate,Hard to get through. Not recommended.,2026-01-30
+163,82,,view,,2026-01-30
+153,876,,shelve,,2026-01-30
+239,892,,view,,2026-01-30
+381,702,4.0,rate,Beautifully written and highly engaging.,2026-01-30
+270,554,2.0,rate,Hard to get through. Not recommended.,2026-01-30
+170,284,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-30
+87,71,,view,,2026-01-30
+323,547,3.0,rate,It was an okay read. Met expectations.,2026-01-30
+314,852,3.0,rate,It was an okay read. Met expectations.,2026-01-30
+233,163,,view,,2026-01-30
+85,727,5.0,rate,Beautifully written and highly engaging.,2026-01-30
+330,357,3.0,rate,It was an okay read. Met expectations.,2026-01-30
+251,312,5.0,rate,An absolute masterpiece! Loved every page.,2026-01-30
+45,219,4.0,rate,An absolute masterpiece! Loved every page.,2026-01-30
+160,142,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-30
+136,740,2.0,rate,Decent idea but poorly written.,2026-01-30
+97,113,3.0,rate,It was an okay read. Met expectations.,2026-01-30
+197,907,2.0,rate,Hard to get through. Not recommended.,2026-01-30
+193,14,,shelve,,2026-01-30
+223,6,4.0,rate,Beautifully written and highly engaging.,2026-01-30
+286,42,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-30
+167,151,4.0,rate,Could not put it down! A fantastic book.,2026-01-30
+165,1080,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+12,593,,view,,2026-01-31
+397,454,1.0,rate,Very basic characters and predictable plot.,2026-01-31
+261,1127,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-31
+98,212,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+114,1122,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+124,118,,view,,2026-01-31
+7,1183,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+47,339,,view,,2026-01-31
+62,561,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+344,1032,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+244,623,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+199,606,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+245,69,4.0,rate,Beautifully written and highly engaging.,2026-01-31
+39,1116,2.0,rate,"Disappointing, execution fell short of the premise.",2026-01-31
+27,1176,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-01-31
+377,624,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+224,1040,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+198,1004,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+150,46,3.0,rate,It was an okay read. Met expectations.,2026-01-31
+299,49,,shelve,,2026-02-01
+262,200,,view,,2026-02-01
+288,1115,4.0,rate,"A wonderful read, really connected with the story.",2026-02-01
+236,1114,,view,,2026-02-01
+291,996,,shelve,,2026-02-01
+324,1145,,view,,2026-02-01
+43,552,3.0,rate,It was an okay read. Met expectations.,2026-02-01
+335,352,,view,,2026-02-01
+232,705,4.0,rate,Could not put it down! A fantastic book.,2026-02-01
+306,674,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-01
+29,895,3.0,rate,It was an okay read. Met expectations.,2026-02-01
+365,1154,3.0,rate,It was an okay read. Met expectations.,2026-02-01
+115,620,3.0,rate,It was an okay read. Met expectations.,2026-02-01
+186,920,3.0,rate,It was an okay read. Met expectations.,2026-02-01
+347,521,4.0,rate,"A wonderful read, really connected with the story.",2026-02-02
+64,1119,3.0,rate,It was an okay read. Met expectations.,2026-02-02
+14,120,,view,,2026-02-02
+70,482,,shelve,,2026-02-02
+350,825,,view,,2026-02-02
+263,477,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-02
+104,457,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-02
+38,436,,shelve,,2026-02-02
+290,847,2.0,rate,Hard to get through. Not recommended.,2026-02-02
+4,465,,shelve,,2026-02-02
+214,1108,,view,,2026-02-02
+313,1173,2.0,rate,Hard to get through. Not recommended.,2026-02-02
+23,3,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+18,589,,view,,2026-02-03
+334,710,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+339,747,,view,,2026-02-03
+213,517,,shelve,,2026-02-03
+51,538,,shelve,,2026-02-03
+227,231,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-03
+108,1175,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-03
+231,219,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-03
+331,328,4.0,rate,Could not put it down! A fantastic book.,2026-02-03
+279,426,,shelve,,2026-02-03
+300,242,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+145,983,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+127,422,2.0,rate,Hard to get through. Not recommended.,2026-02-03
+92,808,4.0,rate,Could not put it down! A fantastic book.,2026-02-03
+67,310,,view,,2026-02-03
+109,830,4.0,rate,Beautifully written and highly engaging.,2026-02-03
+9,776,4.0,rate,Beautifully written and highly engaging.,2026-02-03
+315,505,4.0,rate,"A wonderful read, really connected with the story.",2026-02-03
+76,130,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+386,947,2.0,rate,Decent idea but poorly written.,2026-02-03
+116,892,3.0,rate,It was an okay read. Met expectations.,2026-02-03
+40,716,5.0,rate,Beautifully written and highly engaging.,2026-02-03
+395,905,5.0,rate,Beautifully written and highly engaging.,2026-02-03
+207,925,4.0,rate,"A wonderful read, really connected with the story.",2026-02-03
+394,446,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-04
+37,332,,shelve,,2026-02-04
+88,1055,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-04
+143,568,5.0,rate,"A wonderful read, really connected with the story.",2026-02-04
+162,89,,view,,2026-02-04
+272,820,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-04
+175,1087,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+121,877,,shelve,,2026-02-04
+354,1135,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-04
+325,757,,view,,2026-02-04
+253,713,,shelve,,2026-02-04
+183,845,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+185,928,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+58,1089,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+247,64,,view,,2026-02-04
+363,188,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+222,780,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+54,916,,shelve,,2026-02-04
+123,121,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-04
+61,762,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+390,486,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-04
+110,322,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-04
+215,778,2.0,rate,Hard to get through. Not recommended.,2026-02-04
+308,1164,3.0,rate,It was an okay read. Met expectations.,2026-02-04
+295,328,,view,,2026-02-05
+319,755,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+78,82,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+356,57,,shelve,,2026-02-05
+177,1062,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+142,1001,,view,,2026-02-05
+331,606,,view,,2026-02-05
+99,1113,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+59,318,,view,,2026-02-05
+346,685,4.0,rate,Could not put it down! A fantastic book.,2026-02-05
+169,142,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-05
+361,103,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+140,774,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+368,900,,shelve,,2026-02-05
+77,404,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+285,965,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-05
+317,651,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-05
+6,600,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+254,351,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+388,1090,2.0,rate,Very basic characters and predictable plot.,2026-02-05
+217,586,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-05
+396,289,2.0,rate,Very basic characters and predictable plot.,2026-02-05
+318,78,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+118,1049,,view,,2026-02-05
+13,1177,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+260,60,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+364,30,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-05
+226,417,,view,,2026-02-05
+90,60,3.0,rate,It was an okay read. Met expectations.,2026-02-05
+269,359,,view,,2026-02-06
+34,349,,shelve,,2026-02-06
+91,318,2.0,rate,Very basic characters and predictable plot.,2026-02-06
+320,193,2.0,rate,Decent idea but poorly written.,2026-02-06
+141,161,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+283,965,,view,,2026-02-06
+218,600,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+112,892,,view,,2026-02-06
+205,1165,,view,,2026-02-06
+259,633,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+35,83,,view,,2026-02-06
+389,897,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+60,521,4.0,rate,"A wonderful read, really connected with the story.",2026-02-06
+194,468,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+357,738,,view,,2026-02-06
+257,227,2.0,rate,Hard to get through. Not recommended.,2026-02-06
+75,63,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+326,932,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-06
+48,55,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+327,88,,shelve,,2026-02-06
+244,459,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-06
+267,188,,view,,2026-02-06
+133,517,,view,,2026-02-06
+149,720,,view,,2026-02-06
+153,247,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+343,887,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-06
+278,798,,shelve,,2026-02-06
+46,304,,view,,2026-02-06
+355,821,3.0,rate,It was an okay read. Met expectations.,2026-02-06
+174,244,,view,,2026-02-07
+126,239,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+251,713,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+191,945,,shelve,,2026-02-07
+314,927,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+374,604,,view,,2026-02-07
+196,615,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-07
+230,984,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+49,874,5.0,rate,Beautifully written and highly engaging.,2026-02-07
+25,680,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+340,239,2.0,rate,Very basic characters and predictable plot.,2026-02-07
+135,107,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-07
+287,1025,,shelve,,2026-02-07
+223,1070,2.0,rate,Decent idea but poorly written.,2026-02-07
+228,122,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+298,513,,view,,2026-02-07
+204,1120,3.0,rate,It was an okay read. Met expectations.,2026-02-07
+131,573,,view,,2026-02-07
+105,86,4.0,rate,Could not put it down! A fantastic book.,2026-02-08
+106,917,2.0,rate,Very basic characters and predictable plot.,2026-02-08
+333,840,,view,,2026-02-08
+359,1073,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-08
+399,217,,view,,2026-02-08
+240,333,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-08
+210,291,5.0,rate,Could not put it down! A fantastic book.,2026-02-08
+387,597,3.0,rate,It was an okay read. Met expectations.,2026-02-08
+134,1067,4.0,rate,"A wonderful read, really connected with the story.",2026-02-08
+255,963,4.0,rate,"A wonderful read, really connected with the story.",2026-02-08
+84,168,,shelve,,2026-02-08
+362,593,4.0,rate,Could not put it down! A fantastic book.,2026-02-08
+292,910,3.0,rate,It was an okay read. Met expectations.,2026-02-08
+69,1106,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-08
+168,16,,view,,2026-02-08
+44,1084,3.0,rate,It was an okay read. Met expectations.,2026-02-08
+21,948,4.0,rate,Beautifully written and highly engaging.,2026-02-08
+10,381,4.0,rate,Could not put it down! A fantastic book.,2026-02-08
+303,110,4.0,rate,Beautifully written and highly engaging.,2026-02-08
+57,556,5.0,rate,"A wonderful read, really connected with the story.",2026-02-08
+68,177,4.0,rate,Could not put it down! A fantastic book.,2026-02-08
+305,200,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-08
+47,813,3.0,rate,It was an okay read. Met expectations.,2026-02-08
+201,594,,view,,2026-02-08
+156,157,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-08
+161,365,2.0,rate,Very basic characters and predictable plot.,2026-02-09
+345,266,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+310,989,2.0,rate,Decent idea but poorly written.,2026-02-09
+158,568,4.0,rate,Could not put it down! A fantastic book.,2026-02-09
+94,154,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+195,375,,view,,2026-02-09
+281,782,4.0,rate,"A wonderful read, really connected with the story.",2026-02-09
+63,1050,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+93,653,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-09
+152,281,4.0,rate,"A wonderful read, really connected with the story.",2026-02-09
+280,607,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-09
+166,858,,view,,2026-02-09
+212,541,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+367,1123,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+266,1100,,view,,2026-02-09
+250,685,2.0,rate,Decent idea but poorly written.,2026-02-09
+55,189,,view,,2026-02-09
+373,720,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+297,279,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+167,152,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-09
+137,373,2.0,rate,Very basic characters and predictable plot.,2026-02-09
+24,16,,view,,2026-02-09
+138,360,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+269,1199,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-09
+396,1188,,view,,2026-02-09
+274,516,,shelve,,2026-02-09
+189,79,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-09
+238,1019,,shelve,,2026-02-09
+26,641,3.0,rate,It was an okay read. Met expectations.,2026-02-09
+42,437,,view,,2026-02-09
+382,600,,shelve,,2026-02-10
+385,992,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+146,710,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-10
+144,908,2.0,rate,Hard to get through. Not recommended.,2026-02-10
+384,434,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+32,959,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+293,344,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+391,1101,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+265,642,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+224,1052,,shelve,,2026-02-10
+317,343,,view,,2026-02-10
+113,917,2.0,rate,Very basic characters and predictable plot.,2026-02-10
+188,651,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+96,316,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+395,47,,view,,2026-02-10
+83,15,,view,,2026-02-10
+71,700,3.0,rate,It was an okay read. Met expectations.,2026-02-10
+15,234,4.0,rate,"A wonderful read, really connected with the story.",2026-02-10
+192,785,,view,,2026-02-10
+43,1115,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-11
+339,54,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+329,564,,view,,2026-02-11
+52,721,,shelve,,2026-02-11
+154,820,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+198,89,,shelve,,2026-02-11
+221,866,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+104,800,,view,,2026-02-11
+36,709,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+1,302,,view,,2026-02-11
+5,248,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+347,678,4.0,rate,Could not put it down! A fantastic book.,2026-02-11
+282,220,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+392,503,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+82,1061,4.0,rate,Could not put it down! A fantastic book.,2026-02-11
+85,932,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+53,642,3.0,rate,It was an okay read. Met expectations.,2026-02-11
+332,838,2.0,rate,Decent idea but poorly written.,2026-02-12
+352,402,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+89,931,,view,,2026-02-12
+336,674,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+157,1123,,view,,2026-02-12
+203,260,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-12
+289,661,,view,,2026-02-12
+172,138,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+294,57,,view,,2026-02-12
+49,388,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+375,795,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-12
+125,756,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+299,767,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+346,776,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-12
+214,142,2.0,rate,Decent idea but poorly written.,2026-02-12
+360,750,,view,,2026-02-12
+122,164,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-12
+80,591,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+97,19,4.0,rate,"A wonderful read, really connected with the story.",2026-02-12
+276,453,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+328,1178,,shelve,,2026-02-12
+31,328,3.0,rate,It was an okay read. Met expectations.,2026-02-12
+318,19,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+341,140,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-13
+151,93,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-13
+322,1106,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+129,343,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+323,8,4.0,rate,Could not put it down! A fantastic book.,2026-02-13
+162,580,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+190,849,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+120,700,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+187,830,,view,,2026-02-13
+209,408,4.0,rate,Could not put it down! A fantastic book.,2026-02-13
+233,595,,view,,2026-02-13
+393,255,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+75,331,4.0,rate,Could not put it down! A fantastic book.,2026-02-13
+22,863,2.0,rate,Decent idea but poorly written.,2026-02-13
+394,443,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+213,386,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+12,472,,shelve,,2026-02-13
+242,847,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+74,762,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-13
+222,440,,view,,2026-02-13
+381,1090,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-13
+206,67,,view,,2026-02-13
+17,75,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+229,190,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+208,885,5.0,rate,Could not put it down! A fantastic book.,2026-02-13
+86,607,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+400,742,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-13
+218,212,,view,,2026-02-13
+39,295,3.0,rate,It was an okay read. Met expectations.,2026-02-13
+344,98,,shelve,,2026-02-13
+202,960,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+354,1001,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+139,1177,,shelve,,2026-02-14
+150,347,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+169,433,,view,,2026-02-14
+357,485,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-14
+284,380,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+114,1090,,shelve,,2026-02-14
+302,143,,shelve,,2026-02-14
+117,723,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+296,851,,view,,2026-02-14
+178,103,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+279,793,4.0,rate,Could not put it down! A fantastic book.,2026-02-14
+227,76,4.0,rate,Beautifully written and highly engaging.,2026-02-14
+270,1157,,view,,2026-02-14
+321,1078,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-14
+271,339,,shelve,,2026-02-14
+173,58,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+371,904,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+364,285,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+127,953,4.0,rate,Could not put it down! A fantastic book.,2026-02-14
+316,164,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+263,491,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-14
+215,936,,view,,2026-02-14
+111,1191,2.0,rate,Very basic characters and predictable plot.,2026-02-14
+366,675,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+300,102,,view,,2026-02-14
+155,683,,shelve,,2026-02-14
+291,122,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+11,563,,shelve,,2026-02-14
+103,1013,3.0,rate,It was an okay read. Met expectations.,2026-02-14
+264,966,,view,,2026-02-14
+252,785,,view,,2026-02-14
+253,800,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-14
+260,214,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-15
+313,1058,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+249,213,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+3,889,,shelve,,2026-02-15
+64,282,,shelve,,2026-02-15
+378,330,4.0,rate,"A wonderful read, really connected with the story.",2026-02-15
+45,1034,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+105,227,2.0,rate,Hard to get through. Not recommended.,2026-02-15
+142,98,5.0,rate,"A wonderful read, really connected with the story.",2026-02-15
+372,831,,shelve,,2026-02-15
+51,745,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-15
+69,212,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+95,586,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+250,938,,shelve,,2026-02-15
+200,767,4.0,rate,Beautifully written and highly engaging.,2026-02-15
+109,283,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+262,256,,view,,2026-02-15
+226,804,3.0,rate,It was an okay read. Met expectations.,2026-02-15
+91,1075,1.0,rate,Hard to get through. Not recommended.,2026-02-15
+57,984,,view,,2026-02-15
+351,1194,2.0,rate,Very basic characters and predictable plot.,2026-02-15
+10,143,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-15
+61,1180,,view,,2026-02-15
+334,869,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-16
+225,649,,shelve,,2026-02-16
+275,841,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+132,790,,view,,2026-02-16
+376,797,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+325,647,4.0,rate,"A wonderful read, really connected with the story.",2026-02-16
+72,1052,4.0,rate,"A wonderful read, really connected with the story.",2026-02-16
+370,143,,view,,2026-02-16
+311,1197,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-16
+309,643,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+383,750,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-16
+115,676,,view,,2026-02-16
+397,107,,shelve,,2026-02-16
+159,436,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-16
+349,942,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+380,159,,shelve,,2026-02-16
+158,1059,,view,,2026-02-16
+350,620,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-16
+379,339,,view,,2026-02-16
+20,900,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+312,835,2.0,rate,Very basic characters and predictable plot.,2026-02-16
+2,221,2.0,rate,Hard to get through. Not recommended.,2026-02-16
+141,235,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+258,959,,view,,2026-02-16
+8,432,3.0,rate,It was an okay read. Met expectations.,2026-02-16
+7,1159,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+367,478,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+272,408,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+128,1028,2.0,rate,Hard to get through. Not recommended.,2026-02-17
+220,429,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-17
+163,684,,view,,2026-02-17
+181,154,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+62,465,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+387,1084,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+19,1147,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+40,161,2.0,rate,Decent idea but poorly written.,2026-02-17
+46,64,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+176,802,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+235,308,,shelve,,2026-02-17
+236,251,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-17
+303,489,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-17
+165,187,,view,,2026-02-17
+37,101,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+145,651,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-17
+239,364,,view,,2026-02-17
+171,212,,view,,2026-02-17
+307,871,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-17
+243,154,,view,,2026-02-17
+41,583,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-17
+33,168,,shelve,,2026-02-17
+237,986,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+342,1125,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+107,218,4.0,rate,"A wonderful read, really connected with the story.",2026-02-17
+81,677,3.0,rate,It was an okay read. Met expectations.,2026-02-17
+197,1106,,shelve,,2026-02-17
+194,956,,view,,2026-02-17
+101,53,,shelve,,2026-02-17
+340,33,2.0,rate,Hard to get through. Not recommended.,2026-02-17
+87,1144,3.0,rate,It was an okay read. Met expectations.,2026-02-18
+35,62,,shelve,,2026-02-18
+216,965,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-18
+112,758,3.0,rate,It was an okay read. Met expectations.,2026-02-18
+50,886,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-18
+241,257,3.0,rate,It was an okay read. Met expectations.,2026-02-18
+156,422,2.0,rate,Decent idea but poorly written.,2026-02-18
+124,496,,view,,2026-02-18
+100,572,2.0,rate,Decent idea but poorly written.,2026-02-18
+174,1191,3.0,rate,It was an okay read. Met expectations.,2026-02-18
+358,429,,shelve,,2026-02-18
+207,375,3.0,rate,It was an okay read. Met expectations.,2026-02-18
+330,36,,view,,2026-02-18
+183,741,4.0,rate,Could not put it down! A fantastic book.,2026-02-18
+28,392,,view,,2026-02-18
+58,814,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+368,647,5.0,rate,Could not put it down! A fantastic book.,2026-02-19
+234,779,4.0,rate,Could not put it down! A fantastic book.,2026-02-19
+286,196,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+321,1194,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+188,111,5.0,rate,"A wonderful read, really connected with the story.",2026-02-19
+230,882,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+143,365,2.0,rate,Decent idea but poorly written.,2026-02-19
+54,1131,,shelve,,2026-02-19
+359,1160,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+305,1062,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-19
+118,177,2.0,rate,Very basic characters and predictable plot.,2026-02-19
+59,750,5.0,rate,Could not put it down! A fantastic book.,2026-02-19
+277,117,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-19
+319,425,,shelve,,2026-02-19
+259,507,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+343,515,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+108,592,1.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-19
+398,1110,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+292,69,,view,,2026-02-19
+232,464,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+308,818,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+211,240,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+247,1159,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-19
+168,83,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+73,730,2.0,rate,Decent idea but poorly written.,2026-02-19
+25,450,,view,,2026-02-19
+38,672,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-19
+180,234,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+60,664,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+94,850,3.0,rate,It was an okay read. Met expectations.,2026-02-19
+209,260,2.0,rate,Decent idea but poorly written.,2026-02-20
+186,1102,,view,,2026-02-20
+374,673,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+140,57,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-20
+273,248,,view,,2026-02-20
+283,125,4.0,rate,Beautifully written and highly engaging.,2026-02-20
+189,548,,shelve,,2026-02-20
+34,1023,2.0,rate,Very basic characters and predictable plot.,2026-02-20
+240,325,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+30,109,,view,,2026-02-20
+190,763,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+148,265,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+27,307,2.0,rate,Hard to get through. Not recommended.,2026-02-20
+337,218,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+289,3,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+248,127,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+16,47,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+339,644,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+309,677,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-20
+261,1185,2.0,rate,Very basic characters and predictable plot.,2026-02-20
+353,110,2.0,rate,Very basic characters and predictable plot.,2026-02-20
+170,549,4.0,rate,Beautifully written and highly engaging.,2026-02-20
+206,1073,4.0,rate,Beautifully written and highly engaging.,2026-02-20
+121,403,3.0,rate,It was an okay read. Met expectations.,2026-02-20
+131,332,,shelve,,2026-02-20
+79,1160,,shelve,,2026-02-20
+302,539,,view,,2026-02-20
+327,184,2.0,rate,Very basic characters and predictable plot.,2026-02-20
+182,470,,view,,2026-02-20
+201,1144,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+348,162,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+390,1196,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+23,603,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-21
+388,877,,view,,2026-02-21
+324,291,,view,,2026-02-21
+366,1125,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-21
+184,1001,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-21
+287,844,,view,,2026-02-21
+193,480,2.0,rate,Very basic characters and predictable plot.,2026-02-21
+219,824,5.0,rate,"A wonderful read, really connected with the story.",2026-02-21
+244,1023,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-21
+252,250,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+179,369,,view,,2026-02-21
+345,95,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+70,748,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+136,618,5.0,rate,"A wonderful read, really connected with the story.",2026-02-21
+310,950,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-21
+326,508,2.0,rate,Hard to get through. Not recommended.,2026-02-21
+228,45,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-21
+246,373,1.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-21
+147,430,,view,,2026-02-21
+399,1147,,shelve,,2026-02-21
+231,323,3.0,rate,It was an okay read. Met expectations.,2026-02-21
+138,504,,shelve,,2026-02-21
+386,150,,shelve,,2026-02-21
+256,1064,4.0,rate,Could not put it down! A fantastic book.,2026-02-21
+175,199,4.0,rate,Beautifully written and highly engaging.,2026-02-21
+301,652,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-22
+317,177,2.0,rate,Very basic characters and predictable plot.,2026-02-22
+56,105,,view,,2026-02-22
+288,534,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+75,440,,view,,2026-02-22
+297,1174,4.0,rate,"A wonderful read, really connected with the story.",2026-02-22
+114,736,2.0,rate,Very basic characters and predictable plot.,2026-02-22
+166,944,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+285,807,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+102,408,2.0,rate,Hard to get through. Not recommended.,2026-02-22
+331,154,5.0,rate,"A wonderful read, really connected with the story.",2026-02-22
+4,636,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+44,408,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+335,484,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-22
+82,562,1.0,rate,"Disappointing, execution fell short of the premise.",2026-02-22
+42,1118,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+66,347,3.0,rate,It was an okay read. Met expectations.,2026-02-22
+164,678,2.0,rate,Very basic characters and predictable plot.,2026-02-23
+98,1182,,shelve,,2026-02-23
+205,705,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-23
+29,700,,view,,2026-02-23
+295,775,,shelve,,2026-02-23
+13,144,,view,,2026-02-23
+90,491,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-23
+251,910,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-23
+177,213,5.0,rate,Could not put it down! A fantastic book.,2026-02-23
+55,999,,view,,2026-02-23
+137,809,2.0,rate,Very basic characters and predictable plot.,2026-02-23
+304,905,,view,,2026-02-23
+322,228,,view,,2026-02-23
+133,925,,view,,2026-02-23
+372,425,5.0,rate,Beautifully written and highly engaging.,2026-02-23
+85,570,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+378,447,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+151,551,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+203,350,4.0,rate,Could not put it down! A fantastic book.,2026-02-24
+5,1072,,shelve,,2026-02-24
+28,385,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+361,803,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+360,751,1.0,rate,Hard to get through. Not recommended.,2026-02-24
+364,352,4.0,rate,Beautifully written and highly engaging.,2026-02-24
+245,723,5.0,rate,"A wonderful read, really connected with the story.",2026-02-24
+171,1067,2.0,rate,Decent idea but poorly written.,2026-02-24
+333,275,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+116,97,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-24
+320,865,4.0,rate,"A wonderful read, really connected with the story.",2026-02-24
+341,218,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+293,7,2.0,rate,Decent idea but poorly written.,2026-02-24
+92,476,5.0,rate,Beautifully written and highly engaging.,2026-02-24
+65,159,,shelve,,2026-02-24
+96,282,,view,,2026-02-24
+67,151,,view,,2026-02-24
+160,110,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-24
+336,707,3.0,rate,It was an okay read. Met expectations.,2026-02-24
+377,981,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-24
+282,956,,view,,2026-02-24
+99,700,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+63,544,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+355,550,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-25
+208,963,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+266,572,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+315,598,2.0,rate,Hard to get through. Not recommended.,2026-02-25
+249,95,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+52,1048,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+134,840,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+20,351,4.0,rate,"A wonderful read, really connected with the story.",2026-02-25
+119,32,,shelve,,2026-02-25
+36,423,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-25
+61,1167,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+238,331,,shelve,,2026-02-25
+162,1166,5.0,rate,An absolute masterpiece! Loved every page.,2026-02-25
+100,687,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+6,466,4.0,rate,"A wonderful read, really connected with the story.",2026-02-25
+32,816,4.0,rate,"A wonderful read, really connected with the story.",2026-02-25
+242,1086,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+43,612,4.0,rate,Could not put it down! A fantastic book.,2026-02-25
+257,465,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-25
+146,516,2.0,rate,Very basic characters and predictable plot.,2026-02-25
+76,1013,3.0,rate,It was an okay read. Met expectations.,2026-02-25
+268,1091,,view,,2026-02-25
+241,901,,shelve,,2026-02-25
+3,922,,shelve,,2026-02-25
+187,37,4.0,rate,"A wonderful read, really connected with the story.",2026-02-26
+316,1026,,view,,2026-02-26
+135,1103,2.0,rate,Hard to get through. Not recommended.,2026-02-26
+376,660,,view,,2026-02-26
+363,415,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+173,1133,,shelve,,2026-02-26
+314,778,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-26
+14,1038,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-26
+88,354,2.0,rate,Decent idea but poorly written.,2026-02-26
+373,997,,shelve,,2026-02-26
+362,588,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+222,584,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+185,898,5.0,rate,Could not put it down! A fantastic book.,2026-02-26
+385,356,,view,,2026-02-26
+389,669,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+21,1114,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-26
+225,349,4.0,rate,Beautifully written and highly engaging.,2026-02-26
+22,592,2.0,rate,"Disappointing, execution fell short of the premise.",2026-02-26
+74,488,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-02-26
+381,642,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+86,188,3.0,rate,It was an okay read. Met expectations.,2026-02-26
+351,196,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+120,753,,view,,2026-02-27
+202,950,4.0,rate,"A wonderful read, really connected with the story.",2026-02-27
+130,269,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-02-27
+204,313,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+267,1072,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+369,139,4.0,rate,An absolute masterpiece! Loved every page.,2026-02-27
+9,784,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+236,834,,view,,2026-02-27
+172,265,,view,,2026-02-27
+161,195,,view,,2026-02-27
+199,622,,view,,2026-02-27
+259,459,,shelve,,2026-02-27
+371,825,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+31,885,3.0,rate,It was an okay read. Met expectations.,2026-02-27
+117,160,,view,,2026-02-27
+123,406,,shelve,,2026-02-27
+217,889,2.0,rate,Very basic characters and predictable plot.,2026-02-27
+106,913,,view,,2026-02-27
+77,1032,,view,,2026-02-27
+210,39,3.0,rate,It was an okay read. Met expectations.,2026-02-28
+68,695,4.0,rate,"A wonderful read, really connected with the story.",2026-02-28
+216,219,,view,,2026-02-28
+280,494,3.0,rate,It was an okay read. Met expectations.,2026-02-28
+51,832,,view,,2026-02-28
+191,842,,view,,2026-02-28
+110,799,2.0,rate,Hard to get through. Not recommended.,2026-02-28
+365,62,3.0,rate,It was an okay read. Met expectations.,2026-02-28
+237,1142,,view,,2026-02-28
+72,947,3.0,rate,It was an okay read. Met expectations.,2026-02-28
+111,251,1.0,rate,"Disappointing, execution fell short of the premise.",2026-02-28
+306,796,,view,,2026-03-01
+289,686,,view,,2026-03-01
+263,1003,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+275,32,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+215,734,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+200,594,,view,,2026-03-01
+189,214,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+192,240,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+176,1091,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+274,178,,view,,2026-03-01
+212,191,,view,,2026-03-01
+301,511,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+1,607,5.0,rate,"A wonderful read, really connected with the story.",2026-03-01
+107,578,,shelve,,2026-03-01
+370,211,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+95,1010,,shelve,,2026-03-01
+39,302,2.0,rate,Decent idea but poorly written.,2026-03-01
+356,81,,view,,2026-03-01
+338,40,,view,,2026-03-01
+334,914,3.0,rate,It was an okay read. Met expectations.,2026-03-01
+159,1114,2.0,rate,Hard to get through. Not recommended.,2026-03-01
+26,290,2.0,rate,Very basic characters and predictable plot.,2026-03-01
+33,813,1.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-02
+318,413,,shelve,,2026-03-02
+380,1099,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+254,1117,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+383,1057,5.0,rate,"A wonderful read, really connected with the story.",2026-03-02
+154,1141,,view,,2026-03-02
+48,1028,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-02
+239,20,2.0,rate,Decent idea but poorly written.,2026-03-02
+382,381,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-02
+49,1103,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+142,644,,view,,2026-03-02
+108,848,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+284,962,2.0,rate,Hard to get through. Not recommended.,2026-03-02
+113,1134,,view,,2026-03-02
+393,816,,view,,2026-03-02
+40,614,,shelve,,2026-03-02
+312,1027,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+387,724,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+13,472,2.0,rate,Decent idea but poorly written.,2026-03-02
+139,918,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-02
+59,962,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+214,1076,,view,,2026-03-02
+194,779,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+386,156,4.0,rate,Could not put it down! A fantastic book.,2026-03-02
+71,912,3.0,rate,It was an okay read. Met expectations.,2026-03-02
+283,1149,,view,,2026-03-02
+124,772,5.0,rate,An absolute masterpiece! Loved every page.,2026-03-02
+290,584,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-03
+272,875,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+15,15,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+396,752,,view,,2026-03-03
+262,375,,view,,2026-03-03
+149,1107,2.0,rate,Very basic characters and predictable plot.,2026-03-03
+145,614,5.0,rate,An absolute masterpiece! Loved every page.,2026-03-03
+394,836,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+129,249,4.0,rate,Could not put it down! A fantastic book.,2026-03-03
+332,434,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-03
+238,96,,view,,2026-03-03
+294,1199,,shelve,,2026-03-03
+30,255,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+17,169,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+278,919,,view,,2026-03-03
+188,1078,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-03
+279,529,3.0,rate,It was an okay read. Met expectations.,2026-03-03
+330,472,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+391,780,,shelve,,2026-03-04
+11,516,5.0,rate,Could not put it down! A fantastic book.,2026-03-04
+125,521,,shelve,,2026-03-04
+305,33,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+395,598,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+87,666,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+148,645,2.0,rate,Decent idea but poorly written.,2026-03-04
+291,934,,shelve,,2026-03-04
+84,367,,view,,2026-03-04
+384,119,,view,,2026-03-04
+132,425,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-04
+328,898,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+78,880,2.0,rate,Hard to get through. Not recommended.,2026-03-04
+270,655,3.0,rate,It was an okay read. Met expectations.,2026-03-04
+56,119,,view,,2026-03-04
+392,620,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+235,683,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+104,1109,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+174,1074,,view,,2026-03-05
+19,833,,shelve,,2026-03-05
+300,271,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+141,681,,shelve,,2026-03-05
+326,732,5.0,rate,Could not put it down! A fantastic book.,2026-03-05
+258,188,2.0,rate,Decent idea but poorly written.,2026-03-05
+388,1157,,view,,2026-03-05
+70,1078,,view,,2026-03-05
+261,1153,,view,,2026-03-05
+255,1143,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-05
+147,545,2.0,rate,Very basic characters and predictable plot.,2026-03-05
+165,142,,view,,2026-03-05
+352,163,4.0,rate,Could not put it down! A fantastic book.,2026-03-05
+311,843,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+152,342,3.0,rate,It was an okay read. Met expectations.,2026-03-05
+164,935,,view,,2026-03-05
+358,143,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+295,289,,view,,2026-03-06
+329,33,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+273,1187,,view,,2026-03-06
+397,128,2.0,rate,Very basic characters and predictable plot.,2026-03-06
+277,242,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+73,428,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-06
+155,183,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+361,545,,view,,2026-03-06
+157,295,,view,,2026-03-06
+359,1119,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+199,823,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-06
+122,1129,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+57,619,,view,,2026-03-06
+223,1001,,shelve,,2026-03-06
+45,544,4.0,rate,Beautifully written and highly engaging.,2026-03-06
+234,361,,shelve,,2026-03-06
+160,618,4.0,rate,Could not put it down! A fantastic book.,2026-03-06
+144,316,4.0,rate,Could not put it down! A fantastic book.,2026-03-06
+24,887,3.0,rate,It was an okay read. Met expectations.,2026-03-06
+63,686,5.0,rate,Could not put it down! A fantastic book.,2026-03-06
+69,1063,,view,,2026-03-07
+66,623,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+367,513,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+64,327,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+256,380,,shelve,,2026-03-07
+67,1135,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-07
+91,304,,shelve,,2026-03-07
+47,584,,shelve,,2026-03-07
+349,714,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+90,141,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-07
+321,405,,view,,2026-03-07
+375,146,,view,,2026-03-07
+287,672,,view,,2026-03-07
+374,669,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-07
+170,771,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+271,105,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+153,629,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+79,642,3.0,rate,It was an okay read. Met expectations.,2026-03-07
+207,308,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-08
+81,696,4.0,rate,Could not put it down! A fantastic book.,2026-03-08
+53,1182,2.0,rate,Decent idea but poorly written.,2026-03-08
+35,406,2.0,rate,Decent idea but poorly written.,2026-03-08
+337,1166,,view,,2026-03-08
+46,1115,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+80,926,,shelve,,2026-03-08
+296,884,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+231,240,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+233,999,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-08
+94,314,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-08
+357,468,,view,,2026-03-08
+110,533,2.0,rate,Very basic characters and predictable plot.,2026-03-08
+229,1086,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+226,1156,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+113,446,4.0,rate,Could not put it down! A fantastic book.,2026-03-08
+167,562,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+264,350,,view,,2026-03-08
+158,895,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+8,717,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+400,512,,view,,2026-03-08
+248,360,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-08
+146,892,,view,,2026-03-08
+180,525,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-08
+320,887,3.0,rate,It was an okay read. Met expectations.,2026-03-08
+205,366,2.0,rate,Very basic characters and predictable plot.,2026-03-09
+335,302,,view,,2026-03-09
+29,527,,view,,2026-03-09
+342,116,3.0,rate,It was an okay read. Met expectations.,2026-03-09
+378,193,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-09
+252,438,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-09
+265,502,,shelve,,2026-03-09
+195,1179,,view,,2026-03-09
+89,656,3.0,rate,It was an okay read. Met expectations.,2026-03-09
+16,965,,view,,2026-03-09
+298,356,3.0,rate,It was an okay read. Met expectations.,2026-03-09
+118,812,,view,,2026-03-09
+168,488,,view,,2026-03-09
+109,134,4.0,rate,Could not put it down! A fantastic book.,2026-03-09
+74,856,4.0,rate,Beautifully written and highly engaging.,2026-03-09
+184,59,3.0,rate,It was an okay read. Met expectations.,2026-03-09
+128,581,,shelve,,2026-03-09
+18,821,4.0,rate,Could not put it down! A fantastic book.,2026-03-10
+213,966,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-10
+247,553,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-10
+92,638,2.0,rate,Very basic characters and predictable plot.,2026-03-10
+136,300,3.0,rate,It was an okay read. Met expectations.,2026-03-10
+323,202,2.0,rate,Hard to get through. Not recommended.,2026-03-10
+34,486,,view,,2026-03-10
+135,1011,2.0,rate,Very basic characters and predictable plot.,2026-03-10
+116,120,5.0,rate,An absolute masterpiece! Loved every page.,2026-03-10
+3,1046,,view,,2026-03-10
+304,674,3.0,rate,It was an okay read. Met expectations.,2026-03-10
+102,626,,view,,2026-03-10
+198,471,2.0,rate,Decent idea but poorly written.,2026-03-10
+101,220,3.0,rate,It was an okay read. Met expectations.,2026-03-10
+243,1081,3.0,rate,It was an okay read. Met expectations.,2026-03-10
+369,731,,view,,2026-03-10
+38,810,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-10
+245,929,,shelve,,2026-03-10
+65,1167,3.0,rate,It was an okay read. Met expectations.,2026-03-10
+218,234,4.0,rate,"A wonderful read, really connected with the story.",2026-03-10
+187,949,3.0,rate,It was an okay read. Met expectations.,2026-03-11
+350,18,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-11
+366,1093,1.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-11
+340,528,,shelve,,2026-03-11
+371,500,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-11
+228,707,3.0,rate,It was an okay read. Met expectations.,2026-03-11
+327,760,3.0,rate,It was an okay read. Met expectations.,2026-03-11
+2,783,2.0,rate,Very basic characters and predictable plot.,2026-03-11
+354,753,,view,,2026-03-11
+93,953,,view,,2026-03-11
+175,93,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+303,310,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+345,376,,view,,2026-03-12
+260,645,,view,,2026-03-12
+10,1160,4.0,rate,Could not put it down! A fantastic book.,2026-03-12
+85,21,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-12
+347,128,,view,,2026-03-12
+302,162,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+105,940,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+169,860,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-12
+50,758,4.0,rate,"A wonderful read, really connected with the story.",2026-03-12
+307,143,,shelve,,2026-03-12
+232,573,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+27,990,,view,,2026-03-12
+127,941,4.0,rate,Could not put it down! A fantastic book.,2026-03-12
+389,815,,shelve,,2026-03-12
+183,167,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-12
+211,68,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-12
+42,477,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+25,223,3.0,rate,It was an okay read. Met expectations.,2026-03-12
+216,438,4.0,rate,Could not put it down! A fantastic book.,2026-03-12
+313,1012,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-12
+227,484,,view,,2026-03-12
+241,464,4.0,rate,Beautifully written and highly engaging.,2026-03-13
+224,1192,,shelve,,2026-03-13
+253,556,3.0,rate,It was an okay read. Met expectations.,2026-03-13
+32,254,,view,,2026-03-13
+54,621,,view,,2026-03-13
+159,180,,view,,2026-03-13
+263,1043,,view,,2026-03-13
+124,499,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-13
+343,976,,view,,2026-03-13
+83,726,,shelve,,2026-03-13
+292,750,3.0,rate,It was an okay read. Met expectations.,2026-03-13
+178,881,2.0,rate,Hard to get through. Not recommended.,2026-03-13
+370,700,3.0,rate,It was an okay read. Met expectations.,2026-03-13
+376,640,,view,,2026-03-13
+316,159,,view,,2026-03-13
+240,583,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-13
+276,1142,,shelve,,2026-03-14
+12,701,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+140,534,4.0,rate,"A wonderful read, really connected with the story.",2026-03-14
+60,948,,shelve,,2026-03-14
+6,302,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+290,600,5.0,rate,Could not put it down! A fantastic book.,2026-03-14
+312,69,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+100,379,2.0,rate,Very basic characters and predictable plot.,2026-03-14
+242,622,,shelve,,2026-03-14
+37,3,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+202,613,,shelve,,2026-03-14
+225,559,,view,,2026-03-14
+348,848,,view,,2026-03-14
+286,526,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+156,1182,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+4,1132,,view,,2026-03-14
+186,1026,3.0,rate,It was an okay read. Met expectations.,2026-03-14
+322,521,,view,,2026-03-15
+22,742,,view,,2026-03-15
+30,435,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+398,795,4.0,rate,Could not put it down! A fantastic book.,2026-03-15
+39,909,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+336,788,4.0,rate,"A wonderful read, really connected with the story.",2026-03-15
+380,893,4.0,rate,"A wonderful read, really connected with the story.",2026-03-15
+353,442,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+190,371,,shelve,,2026-03-15
+221,263,,view,,2026-03-15
+5,26,,view,,2026-03-15
+308,775,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+368,994,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+121,652,,shelve,,2026-03-15
+103,363,,view,,2026-03-15
+131,360,4.0,rate,Beautifully written and highly engaging.,2026-03-15
+68,978,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+325,366,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+339,886,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+315,870,3.0,rate,It was an okay read. Met expectations.,2026-03-15
+126,363,2.0,rate,Decent idea but poorly written.,2026-03-16
+43,638,3.0,rate,It was an okay read. Met expectations.,2026-03-16
+395,963,,shelve,,2026-03-16
+9,636,3.0,rate,It was an okay read. Met expectations.,2026-03-16
+255,229,3.0,rate,It was an okay read. Met expectations.,2026-03-16
+72,576,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-16
+280,674,4.0,rate,"A wonderful read, really connected with the story.",2026-03-16
+400,1116,3.0,rate,It was an okay read. Met expectations.,2026-03-16
+11,911,2.0,rate,Hard to get through. Not recommended.,2026-03-16
+372,1056,2.0,rate,Decent idea but poorly written.,2026-03-16
+220,283,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-16
+269,916,3.0,rate,It was an okay read. Met expectations.,2026-03-16
+117,642,4.0,rate,Beautifully written and highly engaging.,2026-03-16
+23,1030,,view,,2026-03-16
+268,487,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-16
+196,75,2.0,rate,Decent idea but poorly written.,2026-03-16
+387,416,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-16
+338,797,,view,,2026-03-17
+51,267,4.0,rate,Could not put it down! A fantastic book.,2026-03-17
+155,410,,shelve,,2026-03-17
+55,1174,3.0,rate,It was an okay read. Met expectations.,2026-03-17
+107,906,,view,,2026-03-17
+48,597,4.0,rate,Beautifully written and highly engaging.,2026-03-17
+237,79,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-17
+206,71,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-17
+199,765,3.0,rate,It was an okay read. Met expectations.,2026-03-17
+44,1051,,shelve,,2026-03-17
+17,618,,shelve,,2026-03-17
+97,503,,view,,2026-03-17
+61,1067,4.0,rate,Could not put it down! A fantastic book.,2026-03-17
+162,753,,view,,2026-03-17
+219,1187,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-17
+274,845,3.0,rate,It was an okay read. Met expectations.,2026-03-17
+209,775,3.0,rate,It was an okay read. Met expectations.,2026-03-18
+1,450,4.0,rate,Beautifully written and highly engaging.,2026-03-18
+362,566,,view,,2026-03-18
+301,97,,shelve,,2026-03-18
+363,489,,view,,2026-03-18
+386,764,4.0,rate,Could not put it down! A fantastic book.,2026-03-18
+95,146,3.0,rate,It was an okay read. Met expectations.,2026-03-18
+197,623,2.0,rate,Decent idea but poorly written.,2026-03-18
+122,372,,shelve,,2026-03-18
+148,274,3.0,rate,It was an okay read. Met expectations.,2026-03-18
+360,659,4.0,rate,Could not put it down! A fantastic book.,2026-03-18
+41,339,,shelve,,2026-03-18
+379,350,3.0,rate,It was an okay read. Met expectations.,2026-03-18
+147,1149,3.0,rate,It was an okay read. Met expectations.,2026-03-18
+374,51,,view,,2026-03-18
+166,788,2.0,rate,Hard to get through. Not recommended.,2026-03-18
+192,995,3.0,rate,It was an okay read. Met expectations.,2026-03-19
+294,741,2.0,rate,Very basic characters and predictable plot.,2026-03-19
+193,964,,shelve,,2026-03-19
+21,595,,view,,2026-03-19
+384,826,,shelve,,2026-03-19
+250,599,4.0,rate,Beautifully written and highly engaging.,2026-03-19
+182,380,3.0,rate,It was an okay read. Met expectations.,2026-03-19
+150,442,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-19
+369,144,,view,,2026-03-19
+204,121,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-19
+350,175,3.0,rate,It was an okay read. Met expectations.,2026-03-19
+257,665,3.0,rate,It was an okay read. Met expectations.,2026-03-19
+267,96,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-19
+181,1072,,shelve,,2026-03-19
+399,579,2.0,rate,Decent idea but poorly written.,2026-03-20
+385,51,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+179,773,2.0,rate,Decent idea but poorly written.,2026-03-20
+212,282,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+309,888,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+73,433,4.0,rate,"A wonderful read, really connected with the story.",2026-03-20
+186,147,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+163,1079,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+58,285,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+130,705,,view,,2026-03-20
+217,810,2.0,rate,Hard to get through. Not recommended.,2026-03-20
+328,110,,view,,2026-03-20
+125,1095,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+93,124,,view,,2026-03-20
+271,162,,view,,2026-03-20
+86,915,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+78,278,2.0,rate,Hard to get through. Not recommended.,2026-03-20
+288,1106,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+344,260,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-20
+191,345,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+40,813,4.0,rate,"A wonderful read, really connected with the story.",2026-03-20
+293,1165,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-20
+275,468,3.0,rate,It was an okay read. Met expectations.,2026-03-20
+319,551,,view,,2026-03-21
+171,466,4.0,rate,Beautifully written and highly engaging.,2026-03-21
+246,381,3.0,rate,It was an okay read. Met expectations.,2026-03-21
+176,659,,shelve,,2026-03-21
+106,182,4.0,rate,Could not put it down! A fantastic book.,2026-03-21
+341,1199,,view,,2026-03-21
+172,122,,view,,2026-03-21
+284,82,,view,,2026-03-21
+249,724,,shelve,,2026-03-21
+396,618,4.0,rate,Beautifully written and highly engaging.,2026-03-21
+210,505,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-21
+113,175,3.0,rate,It was an okay read. Met expectations.,2026-03-21
+14,1133,3.0,rate,It was an okay read. Met expectations.,2026-03-21
+273,293,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-21
+272,907,3.0,rate,It was an okay read. Met expectations.,2026-03-22
+137,987,5.0,rate,"A wonderful read, really connected with the story.",2026-03-22
+337,403,,view,,2026-03-22
+331,546,4.0,rate,"A wonderful read, really connected with the story.",2026-03-22
+102,203,4.0,rate,Could not put it down! A fantastic book.,2026-03-22
+36,1195,,view,,2026-03-22
+52,312,3.0,rate,It was an okay read. Met expectations.,2026-03-22
+154,336,3.0,rate,It was an okay read. Met expectations.,2026-03-22
+133,559,,view,,2026-03-22
+208,221,,view,,2026-03-22
+243,963,3.0,rate,It was an okay read. Met expectations.,2026-03-22
+180,438,3.0,rate,It was an okay read. Met expectations.,2026-03-22
+264,1119,,view,,2026-03-22
+239,1147,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-22
+88,643,3.0,rate,It was an okay read. Met expectations.,2026-03-23
+332,519,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-23
+98,492,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-23
+13,140,,view,,2026-03-23
+67,244,4.0,rate,"A wonderful read, really connected with the story.",2026-03-23
+136,791,2.0,rate,Hard to get through. Not recommended.,2026-03-23
+134,168,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-23
+285,436,5.0,rate,Beautifully written and highly engaging.,2026-03-23
+18,439,,shelve,,2026-03-23
+188,16,,view,,2026-03-23
+115,1186,3.0,rate,It was an okay read. Met expectations.,2026-03-23
+114,896,3.0,rate,It was an okay read. Met expectations.,2026-03-23
+53,994,3.0,rate,It was an okay read. Met expectations.,2026-03-23
+377,549,,view,,2026-03-23
+358,1174,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-23
+129,34,3.0,rate,It was an okay read. Met expectations.,2026-03-23
+27,129,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+59,218,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+383,892,,shelve,,2026-03-24
+373,986,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+79,180,,shelve,,2026-03-24
+62,1060,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+356,821,,shelve,,2026-03-24
+149,1073,2.0,rate,Very basic characters and predictable plot.,2026-03-24
+287,331,,shelve,,2026-03-24
+89,910,,view,,2026-03-24
+177,915,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+132,947,,shelve,,2026-03-24
+120,902,2.0,rate,Very basic characters and predictable plot.,2026-03-24
+349,1023,,shelve,,2026-03-24
+214,806,,view,,2026-03-24
+111,549,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+200,803,3.0,rate,It was an okay read. Met expectations.,2026-03-24
+50,688,3.0,rate,It was an okay read. Met expectations.,2026-03-25
+375,1057,2.0,rate,Decent idea but poorly written.,2026-03-25
+31,692,4.0,rate,Beautifully written and highly engaging.,2026-03-25
+187,572,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-25
+393,300,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-25
+139,781,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-25
+394,273,,shelve,,2026-03-25
+153,814,,view,,2026-03-25
+2,705,3.0,rate,It was an okay read. Met expectations.,2026-03-25
+195,252,4.0,rate,"A wonderful read, really connected with the story.",2026-03-25
+215,80,2.0,rate,Decent idea but poorly written.,2026-03-25
+112,924,,view,,2026-03-25
+66,814,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-25
+56,569,5.0,rate,Could not put it down! A fantastic book.,2026-03-26
+201,1060,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+289,1069,,view,,2026-03-26
+222,1002,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+108,1178,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-26
+238,117,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+333,61,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+207,690,,shelve,,2026-03-26
+300,1043,,view,,2026-03-26
+281,772,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+221,904,4.0,rate,"A wonderful read, really connected with the story.",2026-03-26
+324,243,3.0,rate,It was an okay read. Met expectations.,2026-03-26
+142,582,,view,,2026-03-26
+152,128,,view,,2026-03-26
+3,88,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-26
+158,787,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-26
+390,326,2.0,rate,Decent idea but poorly written.,2026-03-26
+57,1071,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-26
+335,555,,view,,2026-03-26
+296,694,4.0,rate,Beautifully written and highly engaging.,2026-03-27
+291,956,2.0,rate,Decent idea but poorly written.,2026-03-27
+119,418,3.0,rate,It was an okay read. Met expectations.,2026-03-27
+334,832,3.0,rate,It was an okay read. Met expectations.,2026-03-27
+28,1084,4.0,rate,"A wonderful read, really connected with the story.",2026-03-27
+80,196,,shelve,,2026-03-27
+99,762,4.0,rate,Beautifully written and highly engaging.,2026-03-27
+161,57,,view,,2026-03-27
+306,1171,,view,,2026-03-27
+157,966,4.0,rate,Could not put it down! A fantastic book.,2026-03-27
+116,208,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-27
+259,461,4.0,rate,Could not put it down! A fantastic book.,2026-03-27
+256,642,3.0,rate,It was an okay read. Met expectations.,2026-03-28
+299,834,4.0,rate,Beautifully written and highly engaging.,2026-03-28
+203,945,2.0,rate,"Disappointing, execution fell short of the premise.",2026-03-28
+184,945,,view,,2026-03-28
+267,421,3.0,rate,It was an okay read. Met expectations.,2026-03-28
+278,405,,view,,2026-03-28
+304,1175,,view,,2026-03-28
+198,784,2.0,rate,Decent idea but poorly written.,2026-03-28
+143,931,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-28
+63,956,,view,,2026-03-28
+258,1041,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-28
+19,107,4.0,rate,"A wonderful read, really connected with the story.",2026-03-28
+76,1131,,view,,2026-03-28
+223,663,3.0,rate,It was an okay read. Met expectations.,2026-03-28
+244,78,2.0,rate,Decent idea but poorly written.,2026-03-28
+82,926,3.0,rate,It was an okay read. Met expectations.,2026-03-28
+294,897,,shelve,,2026-03-28
+164,309,,view,,2026-03-29
+5,558,,view,,2026-03-29
+214,1041,3.0,rate,It was an okay read. Met expectations.,2026-03-29
+381,656,4.0,rate,Beautifully written and highly engaging.,2026-03-29
+276,746,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-03-29
+355,88,2.0,rate,Hard to get through. Not recommended.,2026-03-29
+78,460,2.0,rate,Decent idea but poorly written.,2026-03-29
+342,458,5.0,rate,An absolute masterpiece! Loved every page.,2026-03-29
+218,136,,view,,2026-03-29
+234,5,4.0,rate,"A wonderful read, really connected with the story.",2026-03-29
+274,721,2.0,rate,Hard to get through. Not recommended.,2026-03-29
+219,534,,view,,2026-03-29
+123,322,4.0,rate,Could not put it down! A fantastic book.,2026-03-30
+359,464,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-30
+38,477,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+40,1170,,view,,2026-03-30
+284,969,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-30
+92,304,,view,,2026-03-30
+160,587,,view,,2026-03-30
+80,943,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+165,652,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+307,877,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+151,606,4.0,rate,Could not put it down! A fantastic book.,2026-03-30
+318,182,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-03-30
+170,889,,view,,2026-03-30
+320,34,2.0,rate,Decent idea but poorly written.,2026-03-30
+86,475,,view,,2026-03-30
+45,595,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+87,804,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+90,381,4.0,rate,Could not put it down! A fantastic book.,2026-03-30
+367,22,3.0,rate,It was an okay read. Met expectations.,2026-03-30
+391,282,2.0,rate,Decent idea but poorly written.,2026-03-30
+279,199,,view,,2026-03-30
+128,919,,shelve,,2026-03-30
+12,1122,,view,,2026-03-30
+248,1163,2.0,rate,Hard to get through. Not recommended.,2026-03-31
+25,499,4.0,rate,Could not put it down! A fantastic book.,2026-03-31
+131,792,3.0,rate,It was an okay read. Met expectations.,2026-03-31
+16,105,,view,,2026-03-31
+317,501,2.0,rate,Very basic characters and predictable plot.,2026-03-31
+167,1066,,view,,2026-03-31
+295,355,4.0,rate,An absolute masterpiece! Loved every page.,2026-03-31
+105,607,,shelve,,2026-03-31
+26,218,3.0,rate,It was an okay read. Met expectations.,2026-03-31
+311,462,,view,,2026-03-31
+347,842,,view,,2026-03-31
+83,88,3.0,rate,It was an okay read. Met expectations.,2026-03-31
+47,673,,view,,2026-03-31
+346,570,3.0,rate,It was an okay read. Met expectations.,2026-03-31
+345,1075,,view,,2026-03-31
+204,136,3.0,rate,It was an okay read. Met expectations.,2026-03-31
+236,478,,shelve,,2026-03-31
+138,966,4.0,rate,"A wonderful read, really connected with the story.",2026-04-01
+15,170,,shelve,,2026-04-01
+75,1016,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-01
+134,1054,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+207,1066,,view,,2026-04-01
+254,601,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+287,568,4.0,rate,"A wonderful read, really connected with the story.",2026-04-01
+125,613,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+373,299,,view,,2026-04-01
+332,209,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+351,298,,view,,2026-04-01
+185,554,2.0,rate,Decent idea but poorly written.,2026-04-01
+67,238,,view,,2026-04-01
+266,268,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-01
+10,248,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+312,723,3.0,rate,It was an okay read. Met expectations.,2026-04-01
+51,37,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-01
+213,410,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-01
+330,121,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+37,444,2.0,rate,Very basic characters and predictable plot.,2026-04-02
+104,124,,view,,2026-04-02
+8,662,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+233,384,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+326,679,,shelve,,2026-04-02
+302,613,,shelve,,2026-04-02
+126,559,,view,,2026-04-02
+238,47,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+121,1116,,view,,2026-04-02
+382,592,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+309,965,,shelve,,2026-04-02
+277,136,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+65,34,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+352,121,3.0,rate,It was an okay read. Met expectations.,2026-04-02
+261,432,,shelve,,2026-04-02
+140,130,4.0,rate,Could not put it down! A fantastic book.,2026-04-02
+64,866,2.0,rate,Decent idea but poorly written.,2026-04-02
+20,349,,shelve,,2026-04-03
+54,251,,shelve,,2026-04-03
+251,972,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-03
+379,930,,view,,2026-04-03
+282,660,3.0,rate,It was an okay read. Met expectations.,2026-04-03
+33,643,,view,,2026-04-03
+310,622,3.0,rate,It was an okay read. Met expectations.,2026-04-03
+365,401,5.0,rate,"A wonderful read, really connected with the story.",2026-04-03
+194,534,,view,,2026-04-03
+371,57,,shelve,,2026-04-03
+325,942,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-03
+9,501,2.0,rate,Very basic characters and predictable plot.,2026-04-03
+71,673,,view,,2026-04-03
+12,1136,,view,,2026-04-03
+116,563,2.0,rate,Decent idea but poorly written.,2026-04-03
+101,343,,shelve,,2026-04-03
+240,716,4.0,rate,Could not put it down! A fantastic book.,2026-04-03
+364,164,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-03
+201,584,3.0,rate,It was an okay read. Met expectations.,2026-04-03
+228,467,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-03
+124,479,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-03
+265,645,,view,,2026-04-03
+81,662,2.0,rate,Decent idea but poorly written.,2026-04-04
+372,1114,,view,,2026-04-04
+306,6,,view,,2026-04-04
+11,1011,3.0,rate,It was an okay read. Met expectations.,2026-04-04
+204,269,,shelve,,2026-04-04
+14,947,2.0,rate,Hard to get through. Not recommended.,2026-04-04
+187,390,3.0,rate,It was an okay read. Met expectations.,2026-04-04
+62,623,,shelve,,2026-04-04
+169,83,4.0,rate,Beautifully written and highly engaging.,2026-04-04
+315,468,3.0,rate,It was an okay read. Met expectations.,2026-04-04
+24,1069,1.0,rate,"Disappointing, execution fell short of the premise.",2026-04-04
+316,59,3.0,rate,It was an okay read. Met expectations.,2026-04-04
+93,999,5.0,rate,Could not put it down! A fantastic book.,2026-04-04
+178,1114,3.0,rate,It was an okay read. Met expectations.,2026-04-04
+168,763,4.0,rate,"A wonderful read, really connected with the story.",2026-04-04
+268,155,4.0,rate,Beautifully written and highly engaging.,2026-04-04
+230,47,2.0,rate,Hard to get through. Not recommended.,2026-04-04
+220,540,,view,,2026-04-04
+110,375,,shelve,,2026-04-04
+189,425,3.0,rate,It was an okay read. Met expectations.,2026-04-05
+179,681,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-05
+216,943,4.0,rate,Beautifully written and highly engaging.,2026-04-05
+284,251,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-05
+314,1153,2.0,rate,Hard to get through. Not recommended.,2026-04-05
+334,298,3.0,rate,It was an okay read. Met expectations.,2026-04-05
+174,817,,view,,2026-04-05
+370,412,,shelve,,2026-04-05
+127,308,3.0,rate,It was an okay read. Met expectations.,2026-04-05
+359,275,3.0,rate,It was an okay read. Met expectations.,2026-04-05
+100,1015,5.0,rate,Could not put it down! A fantastic book.,2026-04-05
+46,512,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-05
+376,852,,view,,2026-04-05
+91,66,,view,,2026-04-05
+381,1068,2.0,rate,Decent idea but poorly written.,2026-04-05
+49,3,,view,,2026-04-05
+260,1150,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-06
+258,604,2.0,rate,Very basic characters and predictable plot.,2026-04-06
+147,830,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+357,262,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+257,340,,view,,2026-04-06
+247,1117,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+183,1195,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+394,694,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+58,132,,view,,2026-04-06
+64,522,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-06
+193,469,2.0,rate,Decent idea but poorly written.,2026-04-06
+175,280,3.0,rate,It was an okay read. Met expectations.,2026-04-06
+16,541,,view,,2026-04-06
+121,164,,view,,2026-04-06
+65,997,,shelve,,2026-04-06
+96,413,2.0,rate,Decent idea but poorly written.,2026-04-06
+180,994,4.0,rate,"A wonderful read, really connected with the story.",2026-04-06
+348,759,,shelve,,2026-04-07
+72,893,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+347,638,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+55,162,4.0,rate,Could not put it down! A fantastic book.,2026-04-07
+188,63,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+335,756,4.0,rate,"A wonderful read, really connected with the story.",2026-04-07
+25,855,,view,,2026-04-07
+339,83,,view,,2026-04-07
+270,1113,,shelve,,2026-04-07
+68,948,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+336,107,4.0,rate,Beautifully written and highly engaging.,2026-04-07
+106,492,2.0,rate,Hard to get through. Not recommended.,2026-04-07
+244,930,2.0,rate,Decent idea but poorly written.,2026-04-07
+140,612,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+137,631,,view,,2026-04-07
+218,950,,view,,2026-04-07
+253,642,5.0,rate,An absolute masterpiece! Loved every page.,2026-04-07
+318,335,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+142,807,4.0,rate,Beautifully written and highly engaging.,2026-04-07
+42,786,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+177,2,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+289,1083,2.0,rate,Decent idea but poorly written.,2026-04-07
+125,751,3.0,rate,It was an okay read. Met expectations.,2026-04-07
+233,611,2.0,rate,Decent idea but poorly written.,2026-04-07
+301,60,,view,,2026-04-08
+280,838,2.0,rate,Hard to get through. Not recommended.,2026-04-08
+283,670,,view,,2026-04-08
+338,1132,,view,,2026-04-08
+317,1039,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-08
+395,616,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+285,254,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-08
+262,96,,view,,2026-04-08
+400,628,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-08
+131,411,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+243,1199,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+190,373,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+245,84,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+241,498,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+141,776,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-08
+32,1101,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+145,393,,view,,2026-04-08
+230,1045,1.0,rate,Hard to get through. Not recommended.,2026-04-08
+57,872,3.0,rate,It was an okay read. Met expectations.,2026-04-08
+1,472,,shelve,,2026-04-08
+178,964,,view,,2026-04-08
+30,974,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-08
+215,1138,,view,,2026-04-08
+97,775,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-09
+107,760,,view,,2026-04-09
+109,304,5.0,rate,An absolute masterpiece! Loved every page.,2026-04-09
+380,629,4.0,rate,Beautifully written and highly engaging.,2026-04-09
+186,131,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+290,927,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+228,280,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+331,119,4.0,rate,Could not put it down! A fantastic book.,2026-04-09
+85,380,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-09
+300,578,,shelve,,2026-04-09
+181,708,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+79,630,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+77,271,,view,,2026-04-09
+272,188,,view,,2026-04-09
+69,643,5.0,rate,Could not put it down! A fantastic book.,2026-04-09
+377,671,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+41,734,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+367,439,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+7,35,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+321,881,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+398,394,2.0,rate,Very basic characters and predictable plot.,2026-04-09
+135,854,,view,,2026-04-09
+133,642,,shelve,,2026-04-09
+327,569,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+391,464,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+130,13,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-09
+328,946,3.0,rate,It was an okay read. Met expectations.,2026-04-09
+155,118,,view,,2026-04-09
+313,1091,,view,,2026-04-10
+166,42,4.0,rate,Beautifully written and highly engaging.,2026-04-10
+84,22,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-10
+156,368,2.0,rate,Very basic characters and predictable plot.,2026-04-10
+365,258,,shelve,,2026-04-10
+307,321,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-10
+144,250,5.0,rate,"A wonderful read, really connected with the story.",2026-04-10
+362,988,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-10
+146,999,5.0,rate,"A wonderful read, really connected with the story.",2026-04-10
+179,741,3.0,rate,It was an okay read. Met expectations.,2026-04-10
+3,566,3.0,rate,It was an okay read. Met expectations.,2026-04-10
+292,1062,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-10
+73,699,4.0,rate,Beautifully written and highly engaging.,2026-04-10
+56,120,,shelve,,2026-04-10
+71,952,4.0,rate,Beautifully written and highly engaging.,2026-04-10
+370,602,2.0,rate,Very basic characters and predictable plot.,2026-04-10
+150,606,4.0,rate,Could not put it down! A fantastic book.,2026-04-10
+129,119,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-10
+261,754,3.0,rate,It was an okay read. Met expectations.,2026-04-10
+197,672,,view,,2026-04-10
+389,565,4.0,rate,"A wonderful read, really connected with the story.",2026-04-10
+108,702,,view,,2026-04-10
+384,878,3.0,rate,It was an okay read. Met expectations.,2026-04-10
+105,361,2.0,rate,Decent idea but poorly written.,2026-04-10
+224,326,2.0,rate,Very basic characters and predictable plot.,2026-04-10
+225,806,4.0,rate,Beautifully written and highly engaging.,2026-04-10
+182,418,3.0,rate,It was an okay read. Met expectations.,2026-04-10
+295,87,2.0,rate,Decent idea but poorly written.,2026-04-10
+165,552,4.0,rate,"A wonderful read, really connected with the story.",2026-04-10
+39,827,,view,,2026-04-10
+192,304,4.0,rate,Beautifully written and highly engaging.,2026-04-10
+14,329,4.0,rate,"A wonderful read, really connected with the story.",2026-04-10
+305,274,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+81,770,,view,,2026-04-11
+163,7,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+325,963,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+63,395,,view,,2026-04-11
+211,650,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+308,1140,,view,,2026-04-11
+139,342,,shelve,,2026-04-11
+335,1137,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+333,171,2.0,rate,Very basic characters and predictable plot.,2026-04-11
+293,983,,view,,2026-04-11
+316,481,4.0,rate,Could not put it down! A fantastic book.,2026-04-11
+175,999,,view,,2026-04-11
+26,552,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+259,479,,shelve,,2026-04-11
+17,113,,view,,2026-04-11
+297,529,,shelve,,2026-04-11
+266,824,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+396,129,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+4,233,,shelve,,2026-04-11
+48,133,3.0,rate,It was an okay read. Met expectations.,2026-04-11
+6,267,2.0,rate,Hard to get through. Not recommended.,2026-04-11
+237,1127,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-11
+5,49,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-11
+353,562,4.0,rate,"A wonderful read, really connected with the story.",2026-04-12
+103,796,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-12
+110,631,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-12
+37,829,4.0,rate,Beautifully written and highly engaging.,2026-04-12
+98,756,,view,,2026-04-12
+397,821,,view,,2026-04-12
+94,579,,shelve,,2026-04-12
+309,978,4.0,rate,Could not put it down! A fantastic book.,2026-04-12
+88,951,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+252,1155,,view,,2026-04-12
+279,457,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+290,35,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-12
+199,252,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+43,904,,view,,2026-04-12
+198,518,2.0,rate,Hard to get through. Not recommended.,2026-04-12
+235,307,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-12
+399,612,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+388,870,5.0,rate,An absolute masterpiece! Loved every page.,2026-04-12
+237,1157,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-12
+364,1017,5.0,rate,Could not put it down! A fantastic book.,2026-04-12
+400,241,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-12
+209,515,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+362,268,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+194,287,,view,,2026-04-12
+126,851,4.0,rate,Beautifully written and highly engaging.,2026-04-12
+232,428,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-12
+51,205,4.0,rate,Could not put it down! A fantastic book.,2026-04-12
+123,739,4.0,rate,Could not put it down! A fantastic book.,2026-04-12
+189,1174,4.0,rate,Beautifully written and highly engaging.,2026-04-12
+173,42,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+240,655,,shelve,,2026-04-12
+148,1035,3.0,rate,It was an okay read. Met expectations.,2026-04-12
+122,340,,view,,2026-04-13
+159,271,,view,,2026-04-13
+135,915,,view,,2026-04-13
+251,385,5.0,rate,An absolute masterpiece! Loved every page.,2026-04-13
+327,594,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+30,626,2.0,rate,Hard to get through. Not recommended.,2026-04-13
+158,386,,shelve,,2026-04-13
+111,544,,view,,2026-04-13
+23,473,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-13
+91,1135,5.0,rate,Beautifully written and highly engaging.,2026-04-13
+260,449,4.0,rate,"A wonderful read, really connected with the story.",2026-04-13
+59,204,2.0,rate,Hard to get through. Not recommended.,2026-04-13
+66,603,4.0,rate,Beautifully written and highly engaging.,2026-04-13
+271,547,,view,,2026-04-13
+269,336,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+368,814,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+149,586,4.0,rate,Beautifully written and highly engaging.,2026-04-13
+202,1033,,shelve,,2026-04-13
+155,956,,shelve,,2026-04-13
+231,757,,view,,2026-04-13
+74,1043,,view,,2026-04-13
+205,699,,view,,2026-04-13
+239,749,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+54,198,4.0,rate,Beautifully written and highly engaging.,2026-04-13
+44,115,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+375,265,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+352,935,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+351,1078,,shelve,,2026-04-13
+89,1112,3.0,rate,It was an okay read. Met expectations.,2026-04-13
+90,195,4.0,rate,Beautifully written and highly engaging.,2026-04-13
+250,790,,view,,2026-04-13
+19,915,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-13
+256,70,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+137,172,,view,,2026-04-14
+216,522,4.0,rate,"A wonderful read, really connected with the story.",2026-04-14
+104,836,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+286,798,,view,,2026-04-14
+68,697,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+57,355,2.0,rate,Very basic characters and predictable plot.,2026-04-14
+361,102,4.0,rate,Beautifully written and highly engaging.,2026-04-14
+369,168,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+78,965,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-14
+55,43,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-14
+245,445,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-14
+378,747,,view,,2026-04-14
+38,1001,,shelve,,2026-04-14
+21,308,5.0,rate,Could not put it down! A fantastic book.,2026-04-14
+346,506,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+341,389,3.0,rate,It was an okay read. Met expectations.,2026-04-14
+298,598,,view,,2026-04-14
+223,861,,shelve,,2026-04-14
+109,156,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-14
+206,154,4.0,rate,Beautifully written and highly engaging.,2026-04-14
+117,944,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-14
+330,426,2.0,rate,Hard to get through. Not recommended.,2026-04-14
+22,634,,shelve,,2026-04-14
+193,1078,2.0,rate,Very basic characters and predictable plot.,2026-04-15
+304,564,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+311,391,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+183,471,5.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-15
+174,152,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+88,197,,shelve,,2026-04-15
+319,475,2.0,rate,Decent idea but poorly written.,2026-04-15
+47,1018,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+35,504,2.0,rate,Decent idea but poorly written.,2026-04-15
+70,1179,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-15
+29,269,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-15
+75,1132,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+385,823,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+27,1020,,view,,2026-04-15
+229,437,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+263,1081,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+266,678,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+97,668,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+226,40,2.0,rate,Decent idea but poorly written.,2026-04-15
+13,1109,,shelve,,2026-04-15
+11,1112,2.0,rate,Very basic characters and predictable plot.,2026-04-15
+136,18,,shelve,,2026-04-15
+324,1162,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+345,39,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+46,144,3.0,rate,It was an okay read. Met expectations.,2026-04-15
+24,236,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-16
+296,1047,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+389,814,4.0,rate,"A wonderful read, really connected with the story.",2026-04-16
+191,160,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-16
+10,277,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+7,297,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+384,963,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+383,895,5.0,rate,Beautifully written and highly engaging.,2026-04-16
+397,975,,shelve,,2026-04-16
+58,891,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+182,1023,2.0,rate,Hard to get through. Not recommended.,2026-04-16
+323,1199,,shelve,,2026-04-16
+130,319,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-16
+119,1122,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+118,351,,view,,2026-04-16
+337,351,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-16
+162,1015,4.0,rate,Could not put it down! A fantastic book.,2026-04-16
+163,116,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+374,386,,shelve,,2026-04-16
+101,313,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-16
+85,382,,shelve,,2026-04-16
+354,599,,view,,2026-04-16
+355,998,,shelve,,2026-04-16
+72,678,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+366,586,2.0,rate,Hard to get through. Not recommended.,2026-04-16
+147,1157,2.0,rate,Hard to get through. Not recommended.,2026-04-16
+368,895,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+92,672,,view,,2026-04-16
+329,943,,view,,2026-04-16
+200,966,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+264,640,,shelve,,2026-04-16
+247,264,3.0,rate,It was an okay read. Met expectations.,2026-04-16
+225,1111,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-16
+253,580,2.0,rate,Hard to get through. Not recommended.,2026-04-16
+98,192,4.0,rate,"A wonderful read, really connected with the story.",2026-04-17
+386,888,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-17
+246,266,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+382,1141,4.0,rate,Beautifully written and highly engaging.,2026-04-17
+291,66,,view,,2026-04-17
+214,553,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+348,765,4.0,rate,"A wonderful read, really connected with the story.",2026-04-17
+379,751,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-17
+349,283,4.0,rate,Beautifully written and highly engaging.,2026-04-17
+217,698,,view,,2026-04-17
+112,393,,shelve,,2026-04-17
+129,931,,shelve,,2026-04-17
+89,174,,view,,2026-04-17
+248,621,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+127,656,,view,,2026-04-17
+138,153,,view,,2026-04-17
+196,240,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+149,513,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+143,1060,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+336,390,2.0,rate,Decent idea but poorly written.,2026-04-17
+8,817,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+356,845,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-17
+302,899,,view,,2026-04-17
+292,1059,,view,,2026-04-17
+49,595,3.0,rate,It was an okay read. Met expectations.,2026-04-17
+79,75,,view,,2026-04-17
+390,189,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-17
+231,359,,view,,2026-04-18
+234,1194,2.0,rate,Decent idea but poorly written.,2026-04-18
+371,1110,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+53,403,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-18
+52,525,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-18
+208,739,,view,,2026-04-18
+241,855,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+221,77,,view,,2026-04-18
+78,112,,view,,2026-04-18
+357,1161,2.0,rate,Very basic characters and predictable plot.,2026-04-18
+76,372,,view,,2026-04-18
+269,670,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+117,1135,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-18
+301,691,,shelve,,2026-04-18
+93,629,4.0,rate,Beautifully written and highly engaging.,2026-04-18
+162,1145,4.0,rate,Beautifully written and highly engaging.,2026-04-18
+146,1086,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+4,1021,4.0,rate,"A wonderful read, really connected with the story.",2026-04-18
+255,340,5.0,rate,"A wonderful read, really connected with the story.",2026-04-18
+322,502,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-18
+392,1029,,view,,2026-04-18
+100,1192,4.0,rate,Could not put it down! A fantastic book.,2026-04-18
+18,138,,shelve,,2026-04-18
+48,1124,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+324,793,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-18
+358,1019,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+249,997,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+28,446,2.0,rate,Hard to get through. Not recommended.,2026-04-18
+339,300,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+114,397,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+276,447,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-18
+243,954,,view,,2026-04-18
+168,51,3.0,rate,It was an okay read. Met expectations.,2026-04-18
+84,889,4.0,rate,"A wonderful read, really connected with the story.",2026-04-19
+169,948,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+202,189,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-19
+172,888,2.0,rate,Very basic characters and predictable plot.,2026-04-19
+107,824,2.0,rate,Very basic characters and predictable plot.,2026-04-19
+340,781,5.0,rate,An absolute masterpiece! Loved every page.,2026-04-19
+111,1165,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+50,384,2.0,rate,Hard to get through. Not recommended.,2026-04-19
+283,181,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-19
+192,938,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+141,785,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-19
+19,497,2.0,rate,Hard to get through. Not recommended.,2026-04-19
+190,612,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+34,323,,view,,2026-04-19
+185,716,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+298,315,4.0,rate,"A wonderful read, really connected with the story.",2026-04-19
+39,995,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-19
+40,656,2.0,rate,Very basic characters and predictable plot.,2026-04-19
+273,405,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-19
+342,309,,view,,2026-04-19
+343,1008,4.0,rate,"A wonderful read, really connected with the story.",2026-04-19
+124,500,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+122,1165,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+369,10,,view,,2026-04-19
+60,1006,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+288,786,,view,,2026-04-19
+70,567,3.0,rate,It was an okay read. Met expectations.,2026-04-19
+164,851,2.0,rate,Very basic characters and predictable plot.,2026-04-20
+333,810,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-20
+143,632,5.0,rate,Could not put it down! A fantastic book.,2026-04-20
+128,885,3.0,rate,It was an okay read. Met expectations.,2026-04-20
+115,637,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-20
+157,1031,,view,,2026-04-20
+45,1031,4.0,rate,Could not put it down! A fantastic book.,2026-04-20
+344,1164,4.0,rate,Could not put it down! A fantastic book.,2026-04-20
+299,164,4.0,rate,"A wonderful read, really connected with the story.",2026-04-20
+390,534,3.0,rate,It was an okay read. Met expectations.,2026-04-20
+200,703,,shelve,,2026-04-20
+61,1063,2.0,rate,Hard to get through. Not recommended.,2026-04-20
+197,766,4.0,rate,Could not put it down! A fantastic book.,2026-04-20
+36,1147,,view,,2026-04-20
+256,95,,view,,2026-04-20
+15,17,3.0,rate,It was an okay read. Met expectations.,2026-04-20
+77,598,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-20
+353,227,4.0,rate,Could not put it down! A fantastic book.,2026-04-20
+350,517,,shelve,,2026-04-20
+173,249,,view,,2026-04-20
+171,666,2.0,rate,Decent idea but poorly written.,2026-04-20
+2,262,,view,,2026-04-20
+42,529,3.0,rate,It was an okay read. Met expectations.,2026-04-20
+398,139,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-21
+320,952,4.0,rate,Could not put it down! A fantastic book.,2026-04-21
+1,462,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-21
+213,222,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+21,1052,2.0,rate,Very basic characters and predictable plot.,2026-04-21
+23,513,4.0,rate,"A wonderful read, really connected with the story.",2026-04-21
+99,594,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+43,61,2.0,rate,Hard to get through. Not recommended.,2026-04-21
+375,217,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+374,76,,shelve,,2026-04-21
+372,614,,shelve,,2026-04-21
+271,280,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-21
+118,474,,shelve,,2026-04-21
+363,821,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+361,234,,shelve,,2026-04-21
+73,1057,,shelve,,2026-04-21
+229,1002,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+96,557,4.0,rate,Could not put it down! A fantastic book.,2026-04-21
+132,1082,,view,,2026-04-21
+360,1131,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+293,1016,5.0,rate,Could not put it down! A fantastic book.,2026-04-21
+201,502,4.0,rate,Could not put it down! A fantastic book.,2026-04-21
+294,1147,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-21
+312,255,3.0,rate,It was an okay read. Met expectations.,2026-04-21
+196,526,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-21
+395,408,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+172,53,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+311,970,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+242,521,,view,,2026-04-22
+65,1079,,view,,2026-04-22
+303,22,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-22
+145,531,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+323,830,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+388,135,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+203,625,,shelve,,2026-04-22
+218,473,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+150,258,,shelve,,2026-04-22
+222,980,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+321,89,5.0,rate,"A wonderful read, really connected with the story.",2026-04-22
+154,815,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+83,1118,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+94,852,2.0,rate,Hard to get through. Not recommended.,2026-04-22
+69,834,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-22
+170,753,2.0,rate,Decent idea but poorly written.,2026-04-22
+239,9,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+326,563,2.0,rate,Hard to get through. Not recommended.,2026-04-22
+102,415,4.0,rate,Beautifully written and highly engaging.,2026-04-22
+282,679,4.0,rate,"A wonderful read, really connected with the story.",2026-04-22
+314,782,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-22
+313,251,,view,,2026-04-22
+378,622,4.0,rate,"A wonderful read, really connected with the story.",2026-04-22
+280,673,,view,,2026-04-22
+184,22,3.0,rate,It was an okay read. Met expectations.,2026-04-22
+232,1009,,view,,2026-04-23
+211,1169,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+180,253,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+263,1126,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+265,1114,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-23
+167,460,4.0,rate,Could not put it down! A fantastic book.,2026-04-23
+29,868,,view,,2026-04-23
+212,567,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-23
+36,303,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-23
+206,967,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+114,977,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+355,493,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+246,590,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+144,1075,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+184,101,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-23
+119,554,,view,,2026-04-23
+393,18,,shelve,,2026-04-23
+219,243,,view,,2026-04-23
+255,1083,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+262,148,,view,,2026-04-23
+344,374,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+156,411,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+392,328,,shelve,,2026-04-23
+108,42,5.0,rate,Could not put it down! A fantastic book.,2026-04-23
+12,450,2.0,rate,Hard to get through. Not recommended.,2026-04-23
+315,282,3.0,rate,It was an okay read. Met expectations.,2026-04-23
+329,304,,view,,2026-04-23
+113,1152,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+103,519,,view,,2026-04-24
+199,154,,shelve,,2026-04-24
+385,206,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+226,141,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+159,727,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+376,307,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+337,456,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+319,570,,view,,2026-04-24
+358,363,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+20,144,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+220,899,3.0,rate,It was an okay read. Met expectations.,2026-04-24
+250,253,2.0,rate,Very basic characters and predictable plot.,2026-04-24
+296,550,4.0,rate,"A wonderful read, really connected with the story.",2026-04-24
+195,780,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+221,308,,shelve,,2026-04-25
+6,160,2.0,rate,Very basic characters and predictable plot.,2026-04-25
+273,897,2.0,rate,Very basic characters and predictable plot.,2026-04-25
+254,993,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+99,794,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-25
+286,742,,shelve,,2026-04-25
+349,331,5.0,rate,Could not put it down! A fantastic book.,2026-04-25
+249,866,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+88,514,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+74,388,,view,,2026-04-25
+32,997,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+132,1188,2.0,rate,Hard to get through. Not recommended.,2026-04-25
+120,110,4.0,rate,Could not put it down! A fantastic book.,2026-04-25
+27,1165,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+151,1053,4.0,rate,"A wonderful read, really connected with the story.",2026-04-25
+187,132,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+264,55,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+34,334,5.0,rate,Could not put it down! A fantastic book.,2026-04-25
+270,167,3.0,rate,It was an okay read. Met expectations.,2026-04-25
+217,824,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+133,1102,4.0,rate,"A wonderful read, really connected with the story.",2026-04-26
+41,762,1.0,rate,Very basic characters and predictable plot.,2026-04-26
+299,905,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+50,1167,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+61,576,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+181,608,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+257,7,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-26
+338,269,,view,,2026-04-26
+305,338,4.0,rate,Beautifully written and highly engaging.,2026-04-26
+342,308,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+278,694,,view,,2026-04-26
+152,436,,shelve,,2026-04-26
+15,622,2.0,rate,Very basic characters and predictable plot.,2026-04-26
+86,1086,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-26
+18,1138,,shelve,,2026-04-26
+136,717,,view,,2026-04-26
+82,32,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+53,1131,3.0,rate,It was an okay read. Met expectations.,2026-04-26
+198,223,,view,,2026-04-26
+161,1123,4.0,rate,"A wonderful read, really connected with the story.",2026-04-26
+308,454,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-26
+166,1034,4.0,rate,An absolute masterpiece! Loved every page.,2026-04-26
+83,556,,shelve,,2026-04-27
+56,180,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+228,103,4.0,rate,"A wonderful read, really connected with the story.",2026-04-27
+235,650,,shelve,,2026-04-27
+176,1130,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+275,817,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+115,780,,shelve,,2026-04-27
+103,1006,,view,,2026-04-27
+346,1191,,view,,2026-04-27
+356,470,,view,,2026-04-27
+67,799,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+171,693,,view,,2026-04-27
+210,87,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+22,419,,shelve,,2026-04-27
+17,878,5.0,rate,Beautifully written and highly engaging.,2026-04-27
+31,164,4.0,rate,"A wonderful read, really connected with the story.",2026-04-27
+157,1185,,shelve,,2026-04-27
+383,133,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+148,545,,view,,2026-04-27
+2,687,3.0,rate,It was an okay read. Met expectations.,2026-04-27
+386,977,4.0,rate,Could not put it down! A fantastic book.,2026-04-27
+248,328,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-28
+191,1088,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+276,882,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-28
+82,3,4.0,rate,Beautifully written and highly engaging.,2026-04-28
+112,1134,4.0,rate,Beautifully written and highly engaging.,2026-04-28
+139,970,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-04-28
+87,373,,view,,2026-04-28
+138,202,,shelve,,2026-04-28
+252,835,,shelve,,2026-04-28
+272,271,,shelve,,2026-04-28
+66,1075,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+268,68,4.0,rate,Could not put it down! A fantastic book.,2026-04-28
+64,702,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+9,1118,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+236,897,2.0,rate,Hard to get through. Not recommended.,2026-04-28
+343,445,,shelve,,2026-04-28
+47,834,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+91,941,4.0,rate,"A wonderful read, really connected with the story.",2026-04-28
+121,1021,,shelve,,2026-04-28
+328,954,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+399,1125,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-04-28
+195,420,2.0,rate,Very basic characters and predictable plot.,2026-04-28
+52,3,2.0,rate,Very basic characters and predictable plot.,2026-04-28
+97,350,3.0,rate,It was an okay read. Met expectations.,2026-04-28
+28,35,4.0,rate,Beautifully written and highly engaging.,2026-04-29
+161,489,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+113,856,4.0,rate,"A wonderful read, really connected with the story.",2026-04-29
+304,1047,4.0,rate,"A wonderful read, really connected with the story.",2026-04-29
+125,417,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+387,1099,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+160,834,4.0,rate,Beautifully written and highly engaging.,2026-04-29
+106,1189,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+44,498,4.0,rate,Beautifully written and highly engaging.,2026-04-29
+154,182,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+227,294,4.0,rate,Could not put it down! A fantastic book.,2026-04-29
+170,473,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+363,616,2.0,rate,Hard to get through. Not recommended.,2026-04-29
+334,1156,,view,,2026-04-29
+153,911,,view,,2026-04-29
+179,411,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+134,527,2.0,rate,Hard to get through. Not recommended.,2026-04-29
+350,518,,shelve,,2026-04-29
+254,858,3.0,rate,It was an okay read. Met expectations.,2026-04-29
+315,556,5.0,rate,Could not put it down! A fantastic book.,2026-04-30
+279,61,,shelve,,2026-04-30
+316,315,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+274,15,,shelve,,2026-04-30
+340,1179,4.0,rate,"A wonderful read, really connected with the story.",2026-04-30
+25,52,,shelve,,2026-04-30
+377,1035,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+375,473,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+165,34,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+62,334,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+366,783,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+35,94,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-30
+310,634,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+281,1148,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+241,918,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-30
+76,787,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+126,693,3.0,rate,It was an okay read. Met expectations.,2026-04-30
+164,139,4.0,rate,Could not put it down! A fantastic book.,2026-04-30
+216,1071,2.0,rate,"Disappointing, execution fell short of the premise.",2026-04-30
+123,991,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+60,293,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+102,775,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-01
+209,959,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-01
+131,887,4.0,rate,"A wonderful read, really connected with the story.",2026-05-01
+257,641,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+330,123,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+95,455,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+20,611,5.0,rate,Beautifully written and highly engaging.,2026-05-01
+351,261,,shelve,,2026-05-01
+185,356,1.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-01
+379,1189,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-01
+303,943,3.0,rate,It was an okay read. Met expectations.,2026-05-01
+14,974,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-01
+224,747,4.0,rate,"A wonderful read, really connected with the story.",2026-05-01
+322,811,,view,,2026-05-01
+16,832,,shelve,,2026-05-01
+41,1017,,view,,2026-05-01
+204,205,4.0,rate,"A wonderful read, really connected with the story.",2026-05-01
+31,1184,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-01
+277,1100,3.0,rate,It was an okay read. Met expectations.,2026-05-02
+238,1133,4.0,rate,Beautifully written and highly engaging.,2026-05-02
+354,854,,view,,2026-05-02
+203,482,2.0,rate,Decent idea but poorly written.,2026-05-02
+347,887,5.0,rate,Beautifully written and highly engaging.,2026-05-02
+9,571,,shelve,,2026-05-02
+265,541,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-02
+360,239,3.0,rate,It was an okay read. Met expectations.,2026-05-02
+87,616,4.0,rate,Beautifully written and highly engaging.,2026-05-02
+393,1144,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-02
+13,489,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-02
+51,1053,4.0,rate,Could not put it down! A fantastic book.,2026-05-02
+242,1148,2.0,rate,Hard to get through. Not recommended.,2026-05-02
+208,909,,view,,2026-05-02
+338,852,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-02
+205,810,3.0,rate,It was an okay read. Met expectations.,2026-05-02
+116,148,3.0,rate,It was an okay read. Met expectations.,2026-05-02
+282,546,4.0,rate,Could not put it down! A fantastic book.,2026-05-02
+222,484,3.0,rate,It was an okay read. Met expectations.,2026-05-02
+210,800,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-02
+285,1196,,shelve,,2026-05-02
+124,679,,shelve,,2026-05-02
+77,572,3.0,rate,It was an okay read. Met expectations.,2026-05-03
+182,673,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-03
+158,1198,,shelve,,2026-05-03
+359,466,4.0,rate,Beautifully written and highly engaging.,2026-05-03
+365,847,,view,,2026-05-03
+341,122,3.0,rate,It was an okay read. Met expectations.,2026-05-03
+397,498,3.0,rate,It was an okay read. Met expectations.,2026-05-03
+26,1023,3.0,rate,It was an okay read. Met expectations.,2026-05-03
+80,116,,view,,2026-05-03
+33,540,2.0,rate,Hard to get through. Not recommended.,2026-05-03
+400,618,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-03
+105,125,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-03
+267,1106,4.0,rate,Could not put it down! A fantastic book.,2026-05-04
+101,1040,,view,,2026-05-04
+281,885,3.0,rate,It was an okay read. Met expectations.,2026-05-04
+234,597,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-04
+163,180,,view,,2026-05-04
+151,9,4.0,rate,"A wonderful read, really connected with the story.",2026-05-04
+289,1108,3.0,rate,It was an okay read. Met expectations.,2026-05-04
+54,178,2.0,rate,Decent idea but poorly written.,2026-05-04
+318,438,3.0,rate,It was an okay read. Met expectations.,2026-05-04
+380,688,4.0,rate,Could not put it down! A fantastic book.,2026-05-04
+71,885,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+162,33,,shelve,,2026-05-05
+275,785,4.0,rate,Beautifully written and highly engaging.,2026-05-05
+176,204,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+153,332,5.0,rate,Beautifully written and highly engaging.,2026-05-05
+129,753,2.0,rate,Very basic characters and predictable plot.,2026-05-05
+181,886,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+92,60,,shelve,,2026-05-05
+314,1165,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-05
+260,818,,shelve,,2026-05-05
+297,137,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+336,1112,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+326,1193,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+231,266,3.0,rate,It was an okay read. Met expectations.,2026-05-05
+127,919,2.0,rate,Very basic characters and predictable plot.,2026-05-05
+380,614,3.0,rate,It was an okay read. Met expectations.,2026-05-06
+81,542,3.0,rate,It was an okay read. Met expectations.,2026-05-06
+215,29,,shelve,,2026-05-06
+245,26,2.0,rate,Hard to get through. Not recommended.,2026-05-06
+40,936,5.0,rate,"A wonderful read, really connected with the story.",2026-05-06
+145,362,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-06
+352,883,,view,,2026-05-06
+63,577,2.0,rate,Decent idea but poorly written.,2026-05-06
+120,1089,,shelve,,2026-05-06
+58,760,5.0,rate,Could not put it down! A fantastic book.,2026-05-06
+394,255,1.0,rate,Hard to get through. Not recommended.,2026-05-06
+194,124,,view,,2026-05-06
+309,1029,3.0,rate,It was an okay read. Met expectations.,2026-05-06
+175,486,3.0,rate,It was an okay read. Met expectations.,2026-05-07
+287,978,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-07
+327,57,,shelve,,2026-05-07
+137,765,,view,,2026-05-07
+306,323,,shelve,,2026-05-07
+85,114,3.0,rate,It was an okay read. Met expectations.,2026-05-07
+233,975,,view,,2026-05-07
+271,449,4.0,rate,"A wonderful read, really connected with the story.",2026-05-07
+96,513,3.0,rate,It was an okay read. Met expectations.,2026-05-07
+292,958,3.0,rate,It was an okay read. Met expectations.,2026-05-07
+5,102,,shelve,,2026-05-08
+244,937,4.0,rate,Could not put it down! A fantastic book.,2026-05-08
+396,1151,5.0,rate,"A wonderful read, really connected with the story.",2026-05-08
+75,146,,view,,2026-05-08
+174,1042,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-08
+398,705,2.0,rate,Very basic characters and predictable plot.,2026-05-08
+110,1045,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-08
+183,1049,3.0,rate,It was an okay read. Met expectations.,2026-05-08
+192,951,,view,,2026-05-08
+146,418,,view,,2026-05-08
+373,824,3.0,rate,It was an okay read. Met expectations.,2026-05-08
+232,650,4.0,rate,"A wonderful read, really connected with the story.",2026-05-08
+227,774,2.0,rate,Decent idea but poorly written.,2026-05-08
+19,1078,,view,,2026-05-08
+253,827,,shelve,,2026-05-08
+291,838,2.0,rate,Very basic characters and predictable plot.,2026-05-08
+362,529,,shelve,,2026-05-08
+122,1044,,view,,2026-05-09
+331,795,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+219,89,5.0,rate,An absolute masterpiece! Loved every page.,2026-05-09
+258,1148,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-09
+117,718,,view,,2026-05-09
+59,1011,,shelve,,2026-05-09
+55,893,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-09
+364,480,1.0,rate,Very basic characters and predictable plot.,2026-05-09
+160,930,,shelve,,2026-05-09
+268,242,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+325,1160,4.0,rate,Beautifully written and highly engaging.,2026-05-09
+108,516,,view,,2026-05-09
+142,543,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-09
+247,952,,shelve,,2026-05-09
+250,321,4.0,rate,Could not put it down! A fantastic book.,2026-05-09
+140,760,2.0,rate,Hard to get through. Not recommended.,2026-05-09
+382,103,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+295,929,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+355,246,4.0,rate,"A wonderful read, really connected with the story.",2026-05-09
+391,59,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+173,592,2.0,rate,Very basic characters and predictable plot.,2026-05-09
+223,916,,view,,2026-05-09
+332,854,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+95,672,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-09
+274,403,3.0,rate,It was an okay read. Met expectations.,2026-05-09
+104,675,,shelve,,2026-05-10
+155,442,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+278,792,,shelve,,2026-05-10
+147,1127,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+157,867,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+288,1108,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+128,445,,view,,2026-05-10
+277,833,,shelve,,2026-05-10
+99,1126,2.0,rate,Very basic characters and predictable plot.,2026-05-10
+4,519,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+276,673,,shelve,,2026-05-10
+98,708,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-10
+243,1102,,shelve,,2026-05-10
+212,370,,shelve,,2026-05-10
+337,806,,view,,2026-05-10
+78,628,,view,,2026-05-10
+357,20,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+298,464,3.0,rate,It was an okay read. Met expectations.,2026-05-10
+2,102,,shelve,,2026-05-10
+312,443,2.0,rate,Hard to get through. Not recommended.,2026-05-10
+73,891,,view,,2026-05-10
+45,568,,view,,2026-05-10
+335,1069,,view,,2026-05-10
+33,375,,shelve,,2026-05-10
+84,220,4.0,rate,Beautifully written and highly engaging.,2026-05-10
+52,198,4.0,rate,"A wonderful read, really connected with the story.",2026-05-11
+206,80,3.0,rate,It was an okay read. Met expectations.,2026-05-11
+193,282,4.0,rate,Could not put it down! A fantastic book.,2026-05-11
+36,149,3.0,rate,It was an okay read. Met expectations.,2026-05-11
+3,268,4.0,rate,"A wonderful read, really connected with the story.",2026-05-11
+345,325,2.0,rate,Decent idea but poorly written.,2026-05-11
+190,353,3.0,rate,It was an okay read. Met expectations.,2026-05-11
+21,1186,2.0,rate,Hard to get through. Not recommended.,2026-05-11
+246,650,3.0,rate,It was an okay read. Met expectations.,2026-05-11
+372,78,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-11
+356,380,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-11
+79,578,,view,,2026-05-11
+118,436,4.0,rate,Beautifully written and highly engaging.,2026-05-11
+348,729,4.0,rate,Could not put it down! A fantastic book.,2026-05-11
+167,1122,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-11
+353,198,5.0,rate,Could not put it down! A fantastic book.,2026-05-11
+305,526,,shelve,,2026-05-11
+344,769,,shelve,,2026-05-11
+366,920,,shelve,,2026-05-12
+370,156,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-12
+343,395,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+203,227,5.0,rate,"A wonderful read, really connected with the story.",2026-05-12
+226,574,,view,,2026-05-12
+178,1136,,shelve,,2026-05-12
+199,804,,view,,2026-05-12
+350,189,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+266,504,,view,,2026-05-12
+317,822,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-12
+156,1022,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+46,1017,,view,,2026-05-12
+136,984,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+202,873,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+8,1115,,view,,2026-05-12
+384,821,4.0,rate,Beautifully written and highly engaging.,2026-05-12
+269,387,4.0,rate,"A wonderful read, really connected with the story.",2026-05-12
+100,1022,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+323,277,3.0,rate,It was an okay read. Met expectations.,2026-05-12
+6,106,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+328,1014,,view,,2026-05-13
+154,758,2.0,rate,Very basic characters and predictable plot.,2026-05-13
+290,987,,shelve,,2026-05-13
+152,448,,shelve,,2026-05-13
+76,145,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+27,481,4.0,rate,Could not put it down! A fantastic book.,2026-05-13
+392,381,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+386,190,,view,,2026-05-13
+301,618,4.0,rate,"A wonderful read, really connected with the story.",2026-05-13
+107,1047,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+240,321,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+333,601,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+313,42,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-13
+68,901,,shelve,,2026-05-13
+53,92,,shelve,,2026-05-13
+284,134,4.0,rate,"A wonderful read, really connected with the story.",2026-05-13
+239,477,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+57,1155,,view,,2026-05-13
+24,854,3.0,rate,It was an okay read. Met expectations.,2026-05-13
+251,960,,view,,2026-05-13
+249,739,,view,,2026-05-14
+307,686,,view,,2026-05-14
+349,873,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-14
+388,881,,shelve,,2026-05-14
+319,643,4.0,rate,Could not put it down! A fantastic book.,2026-05-14
+10,103,,view,,2026-05-14
+385,269,3.0,rate,It was an okay read. Met expectations.,2026-05-14
+32,63,3.0,rate,It was an okay read. Met expectations.,2026-05-14
+262,361,2.0,rate,Hard to get through. Not recommended.,2026-05-14
+184,55,3.0,rate,It was an okay read. Met expectations.,2026-05-14
+302,640,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-14
+308,486,2.0,rate,Decent idea but poorly written.,2026-05-14
+255,257,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-14
+225,174,4.0,rate,Could not put it down! A fantastic book.,2026-05-14
+259,174,,view,,2026-05-14
+374,1107,4.0,rate,Could not put it down! A fantastic book.,2026-05-14
+227,268,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+89,447,,view,,2026-05-15
+102,1175,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+280,1111,,view,,2026-05-15
+148,757,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-15
+20,748,,shelve,,2026-05-15
+324,847,,view,,2026-05-15
+56,555,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+220,563,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-15
+22,705,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+198,296,,view,,2026-05-15
+237,653,,shelve,,2026-05-15
+168,78,4.0,rate,"A wonderful read, really connected with the story.",2026-05-15
+31,182,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+141,40,,shelve,,2026-05-15
+188,361,,view,,2026-05-15
+60,996,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-15
+39,662,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+358,1197,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+143,239,,view,,2026-05-15
+234,817,4.0,rate,"A wonderful read, really connected with the story.",2026-05-15
+42,931,,shelve,,2026-05-15
+224,672,4.0,rate,Could not put it down! A fantastic book.,2026-05-15
+229,984,5.0,rate,An absolute masterpiece! Loved every page.,2026-05-15
+93,848,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+48,1024,,view,,2026-05-15
+196,894,3.0,rate,It was an okay read. Met expectations.,2026-05-15
+109,234,,view,,2026-05-16
+217,1199,,view,,2026-05-16
+213,138,,view,,2026-05-16
+270,467,3.0,rate,It was an okay read. Met expectations.,2026-05-16
+368,682,,view,,2026-05-16
+297,593,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-16
+30,869,,view,,2026-05-16
+103,703,,view,,2026-05-16
+222,289,,view,,2026-05-16
+61,353,,view,,2026-05-16
+132,69,,view,,2026-05-16
+43,1051,,shelve,,2026-05-16
+170,201,3.0,rate,It was an okay read. Met expectations.,2026-05-16
+300,467,4.0,rate,Could not put it down! A fantastic book.,2026-05-16
+272,963,4.0,rate,Could not put it down! A fantastic book.,2026-05-16
+283,53,4.0,rate,"A wonderful read, really connected with the story.",2026-05-16
+376,8,,view,,2026-05-16
+261,12,,view,,2026-05-16
+49,1111,,shelve,,2026-05-16
+299,400,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+1,26,4.0,rate,"A wonderful read, really connected with the story.",2026-05-17
+195,931,2.0,rate,Decent idea but poorly written.,2026-05-17
+44,1065,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+74,530,2.0,rate,Very basic characters and predictable plot.,2026-05-17
+320,341,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+139,855,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+83,29,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-17
+211,652,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+346,224,4.0,rate,"A wonderful read, really connected with the story.",2026-05-17
+150,127,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-17
+7,1093,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+23,844,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+389,693,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+50,718,3.0,rate,It was an okay read. Met expectations.,2026-05-17
+144,626,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-18
+189,767,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+159,82,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-18
+94,995,4.0,rate,"A wonderful read, really connected with the story.",2026-05-18
+293,784,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+254,9,,view,,2026-05-18
+342,391,,view,,2026-05-18
+171,1086,,shelve,,2026-05-18
+135,290,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+181,362,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+377,385,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+138,543,,shelve,,2026-05-18
+322,1149,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-18
+264,341,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-18
+230,1024,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-18
+205,1040,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+354,103,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+185,99,3.0,rate,It was an okay read. Met expectations.,2026-05-18
+340,699,3.0,rate,It was an okay read. Met expectations.,2026-05-19
+390,584,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-19
+133,897,,shelve,,2026-05-19
+399,75,4.0,rate,Could not put it down! A fantastic book.,2026-05-19
+82,841,,view,,2026-05-19
+18,671,,shelve,,2026-05-19
+38,601,4.0,rate,"A wonderful read, really connected with the story.",2026-05-19
+378,620,4.0,rate,Beautifully written and highly engaging.,2026-05-19
+11,646,5.0,rate,Beautifully written and highly engaging.,2026-05-19
+130,1188,3.0,rate,It was an okay read. Met expectations.,2026-05-19
+380,775,3.0,rate,It was an okay read. Met expectations.,2026-05-19
+69,96,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-19
+281,210,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-19
+111,1106,3.0,rate,It was an okay read. Met expectations.,2026-05-19
+311,1044,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-20
+180,392,2.0,rate,Very basic characters and predictable plot.,2026-05-20
+286,494,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+41,967,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+321,1022,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-20
+363,1171,,view,,2026-05-20
+252,8,,view,,2026-05-20
+371,280,,shelve,,2026-05-20
+210,960,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+329,1124,4.0,rate,Beautifully written and highly engaging.,2026-05-20
+66,770,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+263,712,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+9,920,,view,,2026-05-20
+120,702,,view,,2026-05-20
+207,501,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-20
+367,168,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-20
+257,967,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-20
+361,995,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+177,726,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+369,1144,2.0,rate,Hard to get through. Not recommended.,2026-05-20
+70,1190,,shelve,,2026-05-20
+381,540,3.0,rate,It was an okay read. Met expectations.,2026-05-20
+208,555,,view,,2026-05-21
+72,363,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-21
+315,1178,3.0,rate,It was an okay read. Met expectations.,2026-05-21
+235,143,4.0,rate,Beautifully written and highly engaging.,2026-05-21
+164,771,4.0,rate,"A wonderful read, really connected with the story.",2026-05-21
+221,437,3.0,rate,It was an okay read. Met expectations.,2026-05-21
+303,1129,,view,,2026-05-21
+268,773,4.0,rate,Beautifully written and highly engaging.,2026-05-21
+90,288,,view,,2026-05-21
+339,1041,3.0,rate,It was an okay read. Met expectations.,2026-05-21
+304,1104,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-21
+112,371,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-21
+169,19,,view,,2026-05-22
+360,892,4.0,rate,Beautifully written and highly engaging.,2026-05-22
+395,849,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+338,39,2.0,rate,Decent idea but poorly written.,2026-05-22
+310,945,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+86,683,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+341,470,4.0,rate,Beautifully written and highly engaging.,2026-05-22
+172,1042,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+296,202,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+236,268,,shelve,,2026-05-22
+17,722,3.0,rate,It was an okay read. Met expectations.,2026-05-22
+113,674,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-22
+393,839,,view,,2026-05-22
+151,521,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-22
+34,9,2.0,rate,Decent idea but poorly written.,2026-05-23
+29,60,,view,,2026-05-23
+33,921,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-23
+35,1196,3.0,rate,It was an okay read. Met expectations.,2026-05-23
+15,1001,4.0,rate,Could not put it down! A fantastic book.,2026-05-23
+256,641,3.0,rate,It was an okay read. Met expectations.,2026-05-23
+242,960,,view,,2026-05-23
+265,644,2.0,rate,Decent idea but poorly written.,2026-05-23
+37,341,,view,,2026-05-23
+273,316,4.0,rate,Could not put it down! A fantastic book.,2026-05-23
+209,199,3.0,rate,It was an okay read. Met expectations.,2026-05-23
+200,30,3.0,rate,It was an okay read. Met expectations.,2026-05-24
+160,645,3.0,rate,It was an okay read. Met expectations.,2026-05-24
+282,386,4.0,rate,Strong characters and excellent plot. Highly recommended.,2026-05-24
+119,1059,2.0,rate,Not my cup of tea. Found it a bit slow.,2026-05-24
+149,414,4.0,rate,Could not put it down! A fantastic book.,2026-05-24
+176,1001,4.0,rate,"A wonderful read, really connected with the story.",2026-05-24
+275,931,3.0,rate,It was an okay read. Met expectations.,2026-05-24
+219,864,2.0,rate,Decent idea but poorly written.,2026-05-25
+383,716,4.0,rate,"A wonderful read, really connected with the story.",2026-05-25
+166,379,,view,,2026-05-25
+115,916,3.0,rate,It was an okay read. Met expectations.,2026-05-25
+191,374,,shelve,,2026-05-25
+153,476,3.0,rate,It was an okay read. Met expectations.,2026-05-26
+114,1156,3.0,rate,It was an okay read. Met expectations.,2026-05-26
+278,18,2.0,rate,"Disappointing, execution fell short of the premise.",2026-05-26
+197,45,4.0,rate,Beautifully written and highly engaging.,2026-05-26
+248,478,3.0,rate,It was an okay read. Met expectations.,2026-05-26
+87,490,3.0,rate,It was an okay read. Met expectations.,2026-05-27
+274,239,,view,,2026-05-27
+161,744,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-28
+28,93,4.0,rate,An absolute masterpiece! Loved every page.,2026-05-28
+297,583,4.0,rate,Could not put it down! A fantastic book.,2026-05-29
+95,885,,view,,2026-05-29
+277,674,4.0,rate,Could not put it down! A fantastic book.,2026-05-31
+212,1089,,view,,2026-06-01

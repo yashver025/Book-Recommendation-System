@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: recsys-postgres
+    environment:
+      POSTGRES_USER: recsys_user
+      POSTGRES_PASSWORD: recsys_pass
+      POSTGRES_DB: recsys_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U recsys_user -d recsys_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  mlflow:
+    image: python:3.11-slim
+    container_name: recsys-mlflow
+    ports:
+      - "5000:5000"
+    working_dir: /mlflow
+    command: >
+      sh -c "pip install mlflow && 
+             mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns"
+    volumes:
+      - mlflow_data:/mlflow
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    container_name: recsys-api
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_USER=recsys_user
+      - DB_PASSWORD=recsys_pass
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=recsys_db
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    depends_on:
+      db:
+        condition: service_healthy
+      mlflow:
+        condition: service_started
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    container_name: recsys-frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+      - DB_USER=recsys_user
+      - DB_PASSWORD=recsys_pass
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=recsys_db
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:
+  mlflow_data:

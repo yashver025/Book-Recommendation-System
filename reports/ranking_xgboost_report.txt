@@ -1,0 +1,16 @@
+=== XGBOOST CANDIDATE RANKER EVALUATION REPORT ===
+
+Train AUC:     0.9998
+Validation AUC: 0.9995
+Train LogLoss: 0.0115
+Val LogLoss:   0.0054
+
+Feature Importances:
+  two_tower_similarity: 0.0008
+  svd_prediction: 0.0000
+  content_similarity: 0.9944
+  genre_match_score: 0.0007
+  author_match_score: 0.0012
+  book_average_rating: 0.0007
+  book_popularity: 0.0010
+  book_reviews_count: 0.0012

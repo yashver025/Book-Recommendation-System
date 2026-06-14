@@ -1,0 +1,5 @@
+=== FAISS candidate retrieval benchmark ===
+FAISS Search Latency:      0.0488 ms
+NumPy Brute-Force Latency: 0.0271 ms
+Speedup Factor:            0.55x
+Top-10 Overlap:            100%

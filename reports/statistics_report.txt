@@ -1,0 +1,43 @@
+=== BOOK RECOMMENDATION SYSTEM - DATASET STATISTICS ===
+
+Total Books: 1200
+Total Users: 400
+Total Interactions: 24800
+Total Explicit Ratings: 17322
+Average System Rating: 3.14 / 5.0
+
+--- Top 10 Most Popular Books (Interactions count) ---
+1. Whispering Relationship by Isaac Asimov (40 interactions)
+2. The Entrepreneur Economy by Peter Thiel (39 interactions)
+3. The Murder at Truth by Adam Grant (39 interactions)
+4. The Suspect Enigma by Dan Brown (38 interactions)
+5. The Heir of Realm by Nicholas Sparks (38 interactions)
+6. Legacy Unveiled by Tim Ferriss (37 interactions)
+7. The Shadow of Sword by J.R.R. Tolkien (36 interactions)
+8. Passion Forever by Ken Follett (36 interactions)
+9. The Story of Achievement by Arthur C. Clarke (36 interactions)
+10. The Shadow of Dragon by Nicholas Sparks (35 interactions)
+
+--- Top 10 Highest Rated Books (with at least 15 ratings) ---
+1. Whispering Relationship by Isaac Asimov (Avg: 4.04, Count: 26)
+2. The Shadow of Magic by Jane Austen (Avg: 3.88, Count: 17)
+3. The Futuristic Matrix by Jane Austen (Avg: 3.88, Count: 16)
+4. The Shadow of Sword by J.R.R. Tolkien (Avg: 3.83, Count: 24)
+5. Summer in Relationship by Nicholas Sparks (Avg: 3.83, Count: 18)
+6. Whispering Love by Walter Isaacson (Avg: 3.82, Count: 22)
+7. The Action Threat by Nicholas Sparks (Avg: 3.81, Count: 16)
+8. The Legacy Legacy by Neil Gaiman (Avg: 3.80, Count: 15)
+9. Shadows of Rebel by Brandon Sanderson (Avg: 3.78, Count: 18)
+10. 12 Rules of Lifestyle by Philip K. Dick (Avg: 3.75, Count: 16)
+
+--- Top 10 Most Active Users ---
+1. User_1 (ID: 1) with 62 interactions
+2. User_2 (ID: 2) with 62 interactions
+3. User_3 (ID: 3) with 62 interactions
+4. User_4 (ID: 4) with 62 interactions
+5. User_5 (ID: 5) with 62 interactions
+6. User_6 (ID: 6) with 62 interactions
+7. User_7 (ID: 7) with 62 interactions
+8. User_8 (ID: 8) with 62 interactions
+9. User_9 (ID: 9) with 62 interactions
+10. User_10 (ID: 10) with 62 interactions
