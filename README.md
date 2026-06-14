@@ -1,6 +1,6 @@
-# Novalis: Production-Grade AI Book Recommendation System
+# Production-Grade AI Book Recommendation System
 
-Novalis is a state-of-the-art, production-ready Book Recommendation System that mirrors modern recommendation architectures seen at companies like Netflix, Spotify, Amazon, and YouTube.
+This is a state-of-the-art, production-ready Book Recommendation System that mirrors modern recommendation architectures seen at companies like Netflix, Spotify, Amazon, and YouTube.
 
 The system utilizes a **two-stage hybrid recommendation pipeline** combining content-based filtering, collaborative filtering, deep learning embeddings, candidate retrieval with vector search, and candidate ranking with gradient-boosted trees.
 
